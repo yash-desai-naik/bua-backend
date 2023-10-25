@@ -1,0 +1,2831 @@
+[
+    {
+        "band": "L1",
+        "hayScoreRange": "1350-2000",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "SBU Head - BU-A",
+                "outlierIcon": 1,
+                "hayScore": 1312
+            }
+        ]
+    },
+    {
+        "band": "L3",
+        "hayScoreRange": "682-949",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Head-Sales & Marketing-BU-A",
+                "outlierIcon": 1,
+                "hayScore": 666
+            },
+            {
+                "title": "Unit Head-BU- A",
+                "outlierIcon": 0,
+                "hayScore": 904
+            },
+            {
+                "title": "Head-Strategic Sourcing",
+                "outlierIcon": 0,
+                "hayScore": 732
+            }
+        ]
+    },
+    {
+        "band": "L4",
+        "hayScoreRange": "502-681",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Site Lead-Safety & Health - BU-A",
+                "outlierIcon": 1,
+                "hayScore": 393
+            },
+            {
+                "title": "Head-Operations - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 666
+            }
+        ]
+    },
+    {
+        "band": "L5",
+        "hayScoreRange": "392-501",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Lead - Electrical/ Instrumentation",
+                "outlierIcon": 1,
+                "hayScore": 344
+            },
+            {
+                "title": "Head-Engineering & Maintenance",
+                "outlierIcon": 0,
+                "hayScore": 496
+            },
+            {
+                "title": "Site Lead-Finance & accounts (Large)",
+                "outlierIcon": -1,
+                "hayScore": 551
+            },
+            {
+                "title": "Lead-Business Finance- BU-A",
+                "outlierIcon": 0,
+                "hayScore": 496
+            },
+            {
+                "title": "Site Lead-HR & Admin. (Unit HR Head)",
+                "outlierIcon": 0,
+                "hayScore": 496
+            },
+            {
+                "title": "Site Lead-Administration & Security",
+                "outlierIcon": 1,
+                "hayScore": 291
+            },
+            {
+                "title": "Sales Manager - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 421
+            },
+            {
+                "title": "Sales Manager - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 421
+            },
+            {
+                "title": "Sales Manager - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 421
+            },
+            {
+                "title": "Product Manager- BU-A",
+                "outlierIcon": 1,
+                "hayScore": 381
+            },
+            {
+                "title": "Head-Business Development - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 579
+            },
+            {
+                "title": "Lead-Process Safety",
+                "outlierIcon": 1,
+                "hayScore": 333
+            },
+            {
+                "title": "Executive Assistant (to TM1 Leaders)",
+                "outlierIcon": 1,
+                "hayScore": 353
+            },
+            {
+                "title": "Lead-Exports and Inbound Logistics",
+                "outlierIcon": 1,
+                "hayScore": 284
+            }
+        ]
+    },
+    {
+        "band": "L6",
+        "hayScoreRange": "307-391",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Plant In-charge - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 432
+            },
+            {
+                "title": "Plant In-charge - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 432
+            },
+            {
+                "title": "Plant In-charge - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 432
+            },
+            {
+                "title": "Section In charge- Electrical",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Lead-MIQA (Mechanical Integrity & Quality Assurance)",
+                "outlierIcon": 0,
+                "hayScore": 333
+            },
+            {
+                "title": "Lead-Utilities",
+                "outlierIcon": 0,
+                "hayScore": 344
+            },
+            {
+                "title": "Section In charge- Utilities",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Lead- Capex & Documentation",
+                "outlierIcon": 0,
+                "hayScore": 333
+            },
+            {
+                "title": "Section In charge- Electrical",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Section In charge- Instrumentation",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Section In charge- Mechanical",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Section In charge- Mechanical",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Section In charge- Utilities",
+                "outlierIcon": 1,
+                "hayScore": 284
+            },
+            {
+                "title": "Lead - Electrical/ Instrumentation",
+                "outlierIcon": 0,
+                "hayScore": 344
+            },
+            {
+                "title": "Lead Accounts & Taxation",
+                "outlierIcon": 0,
+                "hayScore": 353
+            },
+            {
+                "title": "Lead- MIS & Costing",
+                "outlierIcon": -1,
+                "hayScore": 333
+            },
+            {
+                "title": "Lead-Industrial Relations & Compliance Management",
+                "outlierIcon": 0,
+                "hayScore": 323
+            },
+            {
+                "title": "Section Incharge Security",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Customer Support Executive",
+                "outlierIcon": 1,
+                "hayScore": 252
+            },
+            {
+                "title": "Sales Manager - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 421
+            },
+            {
+                "title": "Product Manager- BU-A",
+                "outlierIcon": 0,
+                "hayScore": 381
+            },
+            {
+                "title": "IPR & BD Support",
+                "outlierIcon": 1,
+                "hayScore": 301
+            },
+            {
+                "title": "Customer Support Executive",
+                "outlierIcon": 1,
+                "hayScore": 252
+            },
+            {
+                "title": "Lead-Process Safety",
+                "outlierIcon": 0,
+                "hayScore": 333
+            },
+            {
+                "title": "Site Lead-Environment",
+                "outlierIcon": 0,
+                "hayScore": 333
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Section In-charge- Technical Services ",
+                "outlierIcon": 0,
+                "hayScore": 323
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 353
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 353
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 353
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 353
+            },
+            {
+                "title": "Site Lead-QA/QC",
+                "outlierIcon": -1,
+                "hayScore": 479
+            },
+            {
+                "title": "Section In-charge QA/ QC ",
+                "outlierIcon": 1,
+                "hayScore": 252
+            },
+            {
+                "title": "Lead-Domestic Outbound Logistics",
+                "outlierIcon": 1,
+                "hayScore": 275
+            }
+        ]
+    },
+    {
+        "band": "L7",
+        "hayScoreRange": "241-306",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Capex & Documentation Engineer",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Capex & Documentation Engineer",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Capex & Documentation Engineer",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Section In charge- Civil",
+                "outlierIcon": 0,
+                "hayScore": 284
+            },
+            {
+                "title": "Section In charge- Civil",
+                "outlierIcon": 0,
+                "hayScore": 284
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Section In charge- Instrumentation",
+                "outlierIcon": 0,
+                "hayScore": 284
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Costing Engineer",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Section In charge- Utilities",
+                "outlierIcon": 0,
+                "hayScore": 284
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Lead-Talent Acquisition- Units",
+                "outlierIcon": 0,
+                "hayScore": 291
+            },
+            {
+                "title": "Lead-Payroll & Benefits ",
+                "outlierIcon": 0,
+                "hayScore": 291
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 1,
+                "hayScore": 194
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 1,
+                "hayScore": 194
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 1,
+                "hayScore": 194
+            },
+            {
+                "title": "Procurement Executive - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Customer Support Executive",
+                "outlierIcon": 0,
+                "hayScore": 252
+            },
+            {
+                "title": "Sales Manager - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 421
+            },
+            {
+                "title": "Product Manager- BU-A",
+                "outlierIcon": -1,
+                "hayScore": 381
+            },
+            {
+                "title": "Customer Support Executive",
+                "outlierIcon": 0,
+                "hayScore": 252
+            },
+            {
+                "title": "Executive- Environment",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Section In-charge- Technical Services ",
+                "outlierIcon": -1,
+                "hayScore": 323
+            },
+            {
+                "title": "Section In-charge- Technical Services ",
+                "outlierIcon": -1,
+                "hayScore": 323
+            },
+            {
+                "title": "Section In-charge- Technical Services ",
+                "outlierIcon": -1,
+                "hayScore": 323
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Technical Assistant",
+                "outlierIcon": 0,
+                "hayScore": 247
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Section Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 353
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": 0,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 1,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Section In-charge QA/ QC ",
+                "outlierIcon": 0,
+                "hayScore": 252
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Section In-charge QA/ QC ",
+                "outlierIcon": 0,
+                "hayScore": 252
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Section In-charge QA/ QC ",
+                "outlierIcon": 0,
+                "hayScore": 252
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 1,
+                "hayScore": 211
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 1,
+                "hayScore": 240
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 1,
+                "hayScore": 228
+            },
+            {
+                "title": "Procurement Executive - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Procurement Executive - BU-A",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 1,
+                "hayScore": 228
+            }
+        ]
+    },
+    {
+        "band": "L8",
+        "hayScoreRange": "--240",
+        "percentage": 15,
+        "uniqueJobs": [
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Instrumentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Documentation Executive",
+                "outlierIcon": 0,
+                "hayScore": 235
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Utilities Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Capex & Documentation Engineer",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Electrical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Draftsmen",
+                "outlierIcon": 0,
+                "hayScore": 199
+            },
+            {
+                "title": "Shift Officer Engineering",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": -1,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": -1,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": -1,
+                "hayScore": 247
+            },
+            {
+                "title": "Accounts Executive",
+                "outlierIcon": -1,
+                "hayScore": 247
+            },
+            {
+                "title": "Human Resource Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Human Resource Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 0,
+                "hayScore": 194
+            },
+            {
+                "title": "IT Infrastructure Engineer",
+                "outlierIcon": -1,
+                "hayScore": 323
+            },
+            {
+                "title": "Sales Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Customer Support Executive",
+                "outlierIcon": -1,
+                "hayScore": 252
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Technical Services Executive",
+                "outlierIcon": -1,
+                "hayScore": 247
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Shift Incharge - Production",
+                "outlierIcon": -1,
+                "hayScore": 261
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Panel Officer",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer Production",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Shift Officer - QA/QC ",
+                "outlierIcon": 0,
+                "hayScore": 211
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Procurement Executive - BU-A",
+                "outlierIcon": -1,
+                "hayScore": 240
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Stores Executive ",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Logistics Executive",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Mechanical Engineer",
+                "outlierIcon": 0,
+                "hayScore": 228
+            },
+            {
+                "title": "Shift Officer - Environment ",
+                "outlierIcon": 0,
+                "hayScore": 160
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 0,
+                "hayScore": 194
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 0,
+                "hayScore": 194
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 0,
+                "hayScore": 194
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Field Officer",
+                "outlierIcon": 0,
+                "hayScore": 195
+            },
+            {
+                "title": "Executive- Safety & Health",
+                "outlierIcon": 0,
+                "hayScore": 240
+            },
+            {
+                "title": "Security Officer ",
+                "outlierIcon": 0,
+                "hayScore": 194
+            }
+        ]
+    }
+]
