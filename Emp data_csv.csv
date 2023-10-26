@@ -1,0 +1,1299 @@
+S. No.,Emp ID,BU,Current Grade,Current Band Equivalence,Designation,Unique Job,Hay Score,Job Family/ Function mapping (as per finalised list) ,Sub Job Family,Department Group,Department,AA Emp. Code,Functional Emp. Code,Current CTC (in lakhs)
+"1,325",AB1040,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,326",AB494,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,327",CMD,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,328",AB246,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,329",AB312,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,330",AB408,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,331",AB405,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.0
+"1,332",AB406,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,333",AB407,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,334",AB409,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,335",AB1239,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,336",AB449,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,337",AB481,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,338",AB1259,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+"1,339",AB411,Dummy,,L0,Dummy,Dummy,0,Dummy,Dummy,Dummy,Dummy,AB1040,AB1040,0.00
+218,AB229,HO,CX0,L1,CFO & Director,Group Chief Financial Officer ,"1,560",Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,CMD,CMD,0.00
+327,AB338,HO,CX1,L1,Head - Innovation & Technology ( President ),Head-Innovation & Technology,"1,358",Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB494,AB494,0.00
+557,AB568,HO,CX1,L1,President,Head-Operational Excellence / CMO,"1,372",Operational Excellence,Operational Excellence,Operational Excellence,Operational Excellence,AB494,AB494,0.00
+"1,107",AB1118,BU-C,CX1,L1,President,SBU Head - BU-C,"1,040",Operations,Operations,Operations,Operations,AB494,AB494,0.00
+"1,108",AB1119,BU-A,CX1,L1,President,SBU Head - BU-A,"1,312",Operations,Operations,Operations,Operations,AB494,AB494,0.00
+219,AB230,HO,CX2,L2,CFO,Chief Financial Officer,994,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,CEO,AB229,0.00
+278,AB289,HO,CX2,L2,Chief Human Resource Officer,Chief Human Resource Officer,"1,142",HR & Admin.,HR & Admin.,HR & Admin.,HR & Admin.,AB494,AB494,0.00
+16,AB027,HO,L1B,L3,Senior General Manager,Head-Corporate Communications,702,Corporate Communications,Corporate Communications,Corporate Communications,Corporate Communications,AB494,AB494,56.68
+279,AB290,HO,L1B,L3,Senior General Manager,Head-Talent Management and L&OD,571,HR & Admin.,Talent Management and L&OD,HR & Admin.,HR & Admin.,AB289,AB289,48.20
+280,AB291,HO,L1B,L3,General Manager,Head-Security & Administration,619,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB289,AB494,39.45
+281,AB292,HO,L1B,L3,Senior General Manager,Head-HR Operations & Industrial Relations,677,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB289,AB289,56.94
+391,AB402,HO,L1B,L3,Senior General Manager,Head-Technology Development,725,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB338,AB338,84.01
+392,AB403,HO,L1A,L3,Head,Head-Special Projects-Fluroine Chemistry,702,Innovation & Technology,Special Projects,Innovation & Technology,Special Projects,AB494,AB568,96.89
+449,AB460,BU-C,L1B,L3,Senior General Manager,Head-Sales & Marketing- BU-C,702,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB1118,AB494,65.51
+469,AB480,BU-A,L1A,L3,Associate Vice President,Head-Sales & Marketing-BU-A,666,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB1119,AB1119,84.13
+566,AB577,BU-A,L1B,L3,Senior General Manager,Unit Head-BU- A,904,Operations,Operations,Operations,Operations,AB1119,AB1119,71.17
+"1,199",AB1210,HO,L1A,L3,Associate Vice President,Head-Strategy ,805,Strategy,Strategy,Strategy,Strategy,AB494,AB494,80.80
+"1,265",AB1276,BU-A,L1A,L3,Head,Head-Strategic Sourcing,732,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1119,AB1119,72.00
+220,AB231,HO,L2A,L4,Deputy General Manager,"Lead-Finance, Treasury & Accounts",634,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB230,AB230,47.71
+226,AB237,BU-C,L2B,L4,Assistant General Manager,Site Lead-Finance & accounts (mid),496,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB966,AB1118,35.69
+233,AB244,HO,L2B,L4,Assistant General Manager,"Lead-Business Planning, MIS (Corp)",551,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB230,AB230,33.66
+282,AB293,HO,L1C,L4,General manager,Head-Corporate Affairs,611,HR & Admin.,Corporate Affairs & Liaison,HR & Admin.,HR & Admin.,AB289,AB289,54.00
+388,AB399,HO,L2B,L4,Assistant General Manager,Lead-Process Engineering ,466,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB404,AB404,40.82
+393,AB404,HO,L1C,L4,General Manager,Group Lead-Process Engineering,732,Innovation & Technology,Process Engineering,Innovation & Technology,Innovation & Technology,AB338,AB338,36.48
+408,AB419,BU-B,L2B,L4,Asst. General Manager-Op,Site Head-BU-B,732,Operations,Operations,Operations,Operations,AB1040,AB1040,34.43
+424,AB435,HO,L2B,L4,Assistant General Manager,Team Lead-IT Software,406,IT Services,IT Software,IT Services,IT Services,AB444,AB444,35.20
+433,AB444,HO,L2A,L4,Deputy General Manager,Head-Information Technology Services,677,IT Services,IT Services,IT Services,IT Services,AB449,AB449,36.02
+445,AB456,HO,L1C,L4,Company Secretary,Company Secretary,775,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB229,AB229,63.09
+465,AB476,BU-C,L2B,L4,Assistant General Manager,Lead-Sales & Marketing- BU-C,438,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB1118,AB1118,39.39
+510,AB521,BU-A,L2A,L4,Deputy General Manager,Site Lead-Safety & Health - BU-A,393,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB577,AB577,37.50
+558,AB569,HO,L2A,L4,Deputy General Manager,Head-Environment ,571,Operational Excellence,Environment,Operational Excellence,Environment,AB568,AB568,42.87
+561,AB572,HO,L2A,L4,Deputy General Manager,COE-Utility & Energy,496,Operational Excellence,Sustainability & Excellence,Operational Excellence,Operational Excellence,AB568,AB568,44.32
+563,AB574,HO,L2A,L4,Deputy General Manager,COE-Process Excellence,496,Operational Excellence,Sustainability & Excellence,Operational Excellence,Operational Excellence,AB568,AB494,34.50
+564,AB575,HO,L1C,L4,General Manager,Head-Safety & Health,571,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB568,AB568,47.50
+567,AB578,BU-A,L2B,L4,Assistant General Manager,Head-Operations - BU-A,666,Operations,Operations,Operations,Operations,AB577,AB577,35.48
+914,AB925,BU-C,L2B,L4,Assistant General Manager,Head-Operations-BU-C,564,Operations,Operations,Operations,Operations,AB966,AB1118,47.44
+955,AB966,BU-C,L1C,L4,General Manager,Unit Head-BU-B,766,Operations,Operations,Operations,Operations,AB1118,AB494,39.53
+980,AB991,BU-C,L2A,L4,Deputy General Manager,Unit Head-BU-C,666,Operations,Operations,Operations,Operations,AB1118,AB494,33.80
+"1,196",AB1207,HO,L1C,L4,General Manager,Lead-Strategy,406,Strategy,Strategy,Strategy,Strategy,AB1210,AB1210,57.89
+"1,197",AB1208,HO,L2B,L4,Assistant General Manager,Lead-Strategy,406,Strategy,Strategy,Strategy,Strategy,AB1210,AB1210,36.05
+"1,266",AB1277,HO,L1C,L4,General Manager,Head-Commercial,677,Supply Chain Management,Commercial,Supply Chain Management,Commercial,AB229,AB229,51.62
+12,AB023,BU-B,M1,L5,Chief Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB966,AB1118,27.02
+18,AB029,BU-A,M2,L5,Senior Manager,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB030,AB030,23.50
+19,AB030,BU-A,M1,L5,Chief Manager,Head-Engineering & Maintenance,496,Engineering,Engineering Leadership,Engineering,Engineering,AB577,AB577,25.75
+118,AB129,BU-C,M2,L5,Senior Manager,Lead-Preventive Maintenance,344,Engineering,Preventive Maintenance,Engineering,Engineering,AB966,AB1118,29.26
+127,AB138,BU-C,M1,L5,Chief Manager,Head-Engineering & Maintenance,496,Engineering,Engineering Leadership,Engineering,Engineering,AB966,AB1118,23.50
+183,AB194,BU-C,M1,L5,Chief Manager,Head-Engineering & Maintenance,496,Engineering,Engineering Leadership,Engineering,Engineering,AB991,AB1118,26.60
+216,AB227,BU-B,M1,L5,Chief Manager - Engg,Head-Engineering & Maintenance,496,Engineering,Engineering Leadership,Engineering,Engineering,AB419,AB419,22.00
+223,AB234,BU-A,M2,L5,Senior Manager,Site Lead-Finance & accounts (Large),551,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB577,AB230,27.84
+229,AB240,BU-B,M2,L5,Senior Manager,Lead- MIS & Costing,333,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB241,AB241,27.61
+230,AB241,BU-B,M1,L5,Chief Manager,Cluster Lead-Finance & accounts BU-B,496,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB1040,AB230,39.42
+232,AB243,HO,M2,L5,Senior Manager,Lead-Taxation ,496,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB230,AB230,21.40
+234,AB245,BU-A,M1,L5,Chief Manager,Lead-Business Finance- BU-A,496,Finance & Accounts,Finance & Treasury,Finance & Accounts,Finance & Accounts,AB1119,AB230,30.27
+237,AB248,HO,M1,L5,Chief Manager,Internal Auditor,496,Finance & Accounts,Audit,Finance & Accounts,Finance & Accounts,AB230,AB230,35.16
+238,AB249,BU-B,M2,L5,Senior Manager,Lead-Business Finance- BU-A,496,Finance & Accounts,Finance & Treasury,Finance & Accounts,Finance & Accounts,AB244,AB244,21.17
+242,AB253,BU-C,M2,L5,Senior Manager,Site Lead-Finance & accounts (Small),438,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB991,AB1118,30.26
+266,AB277,HO,M2,L5,Senior Manager,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB230,AB230,33.89
+283,AB294,BU-A,M1,L5,Chief Manager,Site Lead-HR & Admin. (Unit HR Head),496,HR & Admin.,HR & Admin.,HR & Admin.,HR & Admin.,AB577,AB292,23.58
+284,AB295,BU-C,M2,L5,Senior Manager,Site Lead-HR & Admin. (Unit HR Head),496,HR & Admin.,HR & Admin.,HR & Admin.,HR & Admin.,AB966,AB1118,22.00
+285,AB296,HO,M2,L5,Senior Manager,Lead-Learning & Development-CRP,466,HR & Admin.,Talent Management and L&OD,HR & Admin.,HR & Admin.,AB290,AB290,21.19
+287,AB298,BU-C,M2,L5,Senior Manager,Site Lead-HR & Admin. (Unit HR Head),496,HR & Admin.,HR & Admin.,HR & Admin.,HR & Admin.,AB991,AB1118,31.74
+288,AB299,HO,M1,L5,Chief Manager,Lead-Administration,323,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB289,AB289,28.08
+302,AB313,BU-A,M1,L5,Chief Manager ,Site Lead-Administration & Security,291,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB577,AB291,25.56
+344,AB355,HO,M2,L5,Senior Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB406,AB406,17.50
+345,AB356,HO,M2,L5,Senior Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB407,AB407,24.00
+346,AB357,HO,M1,L5,#N/A,Team Leader-R&D-Piloting & Process Engineering,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,32.99
+385,AB396,HO,M2,L5,Senior Manager,Lead-Technology Development (PERI),466,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB402,AB402,25.47
+387,AB398,HO,M2,L5,Senior Manager,Lead-Process Engineering ,466,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB404,AB404,31.72
+389,AB400,HO,M2,L5,Senior Manager,Lead-Outsourcing,291,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB404,AB404,17.87
+411,AB422,HO,M2,L5,Senior Manager,Lead-Process Engineering ,466,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB403,AB338,21.55
+425,AB436,HO,M1,L5,Chief Manager,Team Lead-IT Infrastructure,406,IT Services,IT Infrastructure,IT Services,IT Services,AB444,AB444,34.45
+430,AB441,HO,M2,L5,Senior Manager,Team Lead-IT Infrastructure,406,IT Services,IT Infrastructure,IT Services,IT Services,AB436,AB436,15.79
+434,AB445,HO,M2,L5,Senior Manager,ERP Functional,252,IT Services,IT Software,IT Services,IT Services,AB435,AB435,19.98
+440,AB451,HO,M2,L5,Senior Manager,Lead-Legal/ Lead-Commercial Laws,406,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB456,AB456,23.50
+441,AB452,HO,M2,L5,Senior Manager,Lead-Legal/ Lead-Commercial Laws,406,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB456,AB456,21.83
+447,AB458,BU-A,M2,L5,Senior Manager,Sales Manager - BU-A,421,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,21.09
+456,AB467,BU-A,M1,L5,Chief Manager,Sales Manager - BU-A,421,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,27.01
+458,AB469,BU-A,M2,L5,Senior Manager,Sales Manager - BU-A,421,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,25.83
+459,AB470,BU-C,M2,L5,Senior Manager,Product Manager- BU-C,432,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB1118,AB1118,21.28
+460,AB471,BU-C,M1,L5,Chief Manager,Product Manager- BU-C,432,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB1118,AB1118,17.00
+462,AB473,BU-A,M2,L5,Senior Manager,Product Manager- BU-A,381,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB480,AB480,26.34
+471,AB482,BU-A,M1,L5,Chief Manager,Head-Business Development - BU-A,579,Marketing & Product Management,Business Development,Marketing/ BD/ Product Management,Business Development,AB1119,AB494,33.00
+482,AB493,HO,M2,L5,Senior Manager,Executive Assistant (to Director & TM0 Leaders),393,MD's Office,MD's Office,MD's Office,MD's Office,AB494,AB494,36.74
+484,AB495,BU-A,M1,L5,Chief Manager ,Lead-Process Safety,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB577,AB577,21.15
+486,AB497,BU-C,M2,L5,Senior Manager,Site Lead-Technical services,466,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB577,AB577,24.02
+517,AB528,BU-C,M2,L5,Senior Manager,Site Lead-Technical services,466,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB966,AB1118,39.34
+523,AB534,BU-C,M2,L5,Senior Manager,Site Lead-Safety & Health - BU-C,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB966,AB1118,20.98
+537,AB548,BU-C,M2,L5,Senior Manager,Site Lead-Safety & Health - BU-C,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB991,AB1118,18.90
+552,AB563,BU-B,M1,L5,Chief Manager,"Cluster Lead-Safety, Health & Environment",372,Operational Excellence,Safety & Health/ Environment,Operational Excellence,"Safety, Health, Environment",AB1040,AB1040,31.00
+553,AB564,HO,M2,L5,Senior Manager,Lead-Production Planning & Inventory Control (PPIC),393,Operational Excellence,Production Planning & Inventory Control (PPIC),Operational Excellence,Operational Excellence,AB568,AB568,31.58
+556,AB567,HO,M2,L5,Deputy Manager,Lead Environment and Compliance ,353,Operational Excellence,Environment,Operational Excellence,Environment,AB409,AB409,13.85
+964,AB975,BU-B,M1,L5,Chief Manager,Site Head-BU-B,732,Operations,Operations,Operations,Operations,AB1040,AB1040,20.91
+981,AB992,BU-C,M1,L5,Chief Manager,Head-Production-BU-C,438,Operations,Operations,Operations,Operations,AB991,AB1118,22.44
+"1,032",AB1043,BU-B,M1,L5,Chief Manager,Head-Production,438,Operations,Operations,Operations,Operations,AB419,AB419,31.50
+"1,109",AB1120,BU-A,M1,L5,Executive Assistant to President-BI,Executive Assistant (to TM1 Leaders),353,Operations,Operations,Operations,Operations,AB1119,AB1119,36.24
+"1,157",AB1168,BU-C,M2,L5,Senior Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Control,AB966,AB1118,28.14
+"1,163",AB1174,BU-B,M2,L5,Senior Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Control,AB975,AB975,30.62
+"1,181",AB1192,BU-B,M1,L5,Chief Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Control,AB419,AB419,26.51
+"1,200",AB1211,BU-A,M2,L5,Senior Manager ,Lead-Exports and Inbound Logistics,284,Supply Chain Management,Logistics,Supply Chain Management,Supply Chain Management,AB577,AB1277,22.28
+"1,236",AB1247,BU-C,M1,L5,Chief Manager,Site Lead-Commercial,344,Supply Chain Management,Commercial,Supply Chain Management,Commercial,AB966,AB1118,36.19
+"1,264",AB1275,HO,M2,L5,Senior Manager,Lead-Commercial & Logistics,383,Supply Chain Management,Commercial,Supply Chain Management,Commercial,AB1277,AB1277,15.43
+"1,275",AB1286,HO,M1,L5,Chief Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Technology,Research & Development,AB406,AB406,30.00
+1,AB012,BU-B,M4,L6,Deputy Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,12.05
+3,AB014,BU-B,M4,L6,Deputy Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,15.16
+4,AB015,BU-B,M4,L6,Deputy Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,12.04
+5,AB016,BU-B,M4,L6,Deputy Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,14.54
+6,AB017,BU-B,M4,L6,Deputy Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,13.82
+8,AB019,BU-A,M3,L6,Manager,Plant In-charge - BU-A,432,Operations,Production,Operations,Operations,AB578,AB578,18.27
+9,AB020,BU-A,M3,L6,Manager,Plant In-charge - BU-A,432,Operations,Production,Operations,Operations,AB578,AB019,17.84
+10,AB021,BU-A,M4,L6,Deputy Manager,Plant In-charge - BU-A,432,Operations,Production,Operations,Operations,AB578,AB019,12.07
+11,AB022,BU-C,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB925,AB925,16.32
+14,AB025,BU-C,M3,L6,Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB925,AB925,32.62
+15,AB026,HO,M3,L6,Manager,Lead-Corporate Communications,323,Corporate Communications,Corporate Communications,Corporate Communications,Corporate Communications,AB027,AB027,17.36
+17,AB028,BU-A,M3,L6,Manager,Section In charge- Electrical,284,Engineering,Electrical Engineering,Engineering,Engineering,AB029,AB029,14.45
+20,AB031,BU-A,M3,L6,Manager ,Lead-MIQA (Mechanical Integrity & Quality Assurance),333,Engineering,MIQA,Engineering,Engineering,AB030,AB030,18.73
+21,AB032,BU-A,M3,L6,Manager,Lead-Utilities,344,Engineering,Utilities Engineering,Engineering,Engineering,AB030,AB030,19.99
+22,AB033,BU-A,M4,L6,Deputy Manager,Section In charge- Utilities,284,Engineering,Utilities Engineering,Engineering,Engineering,AB032,AB032,15.85
+27,AB038,BU-A,M4,L6,Deputy Manager,Lead- Capex & Documentation,333,Engineering,CAPEX & MOC,Engineering,CAPEX & MOC,AB030,AB030,16.92
+30,AB041,BU-A,M4,L6,Deputy Manager,Section In charge- Electrical,284,Engineering,Electrical Engineering,Engineering,Engineering,AB029,AB029,12.52
+31,AB042,BU-A,M4,L6,Deputy Manager,Section In charge- Instrumentation,284,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,13.87
+34,AB045,BU-A,M4,L6,Deputy Manager,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB030,AB030,16.37
+35,AB046,BU-A,M4,L6,Deputy Manager,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB030,AB030,16.23
+40,AB051,BU-A,M4,L6,Deputy Manager,Section In charge- Utilities,284,Engineering,Utilities Engineering,Engineering,Engineering,AB032,AB032,12.61
+92,AB103,BU-A,M3,L6,Manager ,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB030,AB030,13.80
+125,AB136,BU-C,M4,L6,Deputy Manager,Lead-Mechanical,344,Engineering,Mechanical Engineering,Engineering,Engineering,AB138,AB966,13.60
+141,AB152,BU-B,M4,L6,Deputy Manager,Lead-Utilities,344,Engineering,Utilities Engineering,Engineering,Engineering,AB975,AB975,14.27
+146,AB157,BU-C,M3,L6,Manager,Lead-Preventive Maintenance,344,Engineering,Preventive Maintenance,Engineering,Engineering,AB991,AB1118,20.14
+147,AB158,BU-C,M4,L6,Deputy Manager,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB194,AB194,11.25
+149,AB160,BU-C,M4,L6,Deputy Manager,Lead-Mechanical,344,Engineering,Mechanical Engineering,Engineering,Engineering,AB194,AB991,13.12
+150,AB161,BU-C,M4,L6,Deputy Manager,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB992,AB991,10.06
+156,AB167,BU-C,M4,L6,Deputy Manager,Lead-Mechanical,344,Engineering,Mechanical Engineering,Engineering,Engineering,AB194,AB991,14.8
+184,AB195,BU-B,M3,L6,Manager ,Lead-Mechanical,344,Engineering,Mechanical Engineering,Engineering,Engineering,AB227,AB227,21.0
+221,AB232,HO,M3,L6,Manager,Lead-Finance & Treasury,634,Finance & Accounts,Finance & Treasury,Finance & Accounts,Finance & Accounts,AB230,AB230,20.2
+224,AB235,BU-A,M3,L6,Manager,Lead Accounts & Taxation,353,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB234,AB234,26.1
+225,AB236,BU-C,M3,L6,Manager,Lead Accounts & Taxation,353,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB237,AB966,17.5
+227,AB238,BU-B,M3,L6,Manager,Lead Accounts & Taxation,353,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB241,AB241,19.9
+228,AB239,BU-B,M3,L6,Manager,Lead Accounts & Taxation,353,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB241,AB241,20.0
+231,AB242,BU-C,M3,L6,Manager,Lead Accounts & Taxation,353,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB253,AB991,17.0
+236,AB247,BU-B,M4,L6,Deputy Manager,Site Lead-Environment,333,Operational Excellence,Environment,Operational Excellence,Environment,AB563,AB563,11.8
+239,AB250,BU-A,M3,L6,Manager,Lead- MIS & Costing,333,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB234,AB234,18.1
+240,AB251,BU-C,M4,L6,Deputy Manager,Lead- MIS & Costing,333,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB237,AB966,16.0
+241,AB252,BU-C,M4,L6,Deputy Manager,Lead- MIS & Costing,333,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB253,AB991,13.4
+248,AB259,BU-B,M4,L6,Deputy Manager,Site Lead-Environment,333,Operational Excellence,Environment,Operational Excellence,Environment,AB563,AB563,14.7
+270,AB281,HO,M4,L6,Deputy Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB231,AB231,17.5
+272,AB283,HO,M3,L6,Manager,Lead-Accounts,353,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB231,AB231,13.3
+286,AB297,HO,M4,L6,Deputy Manager,Lead-Learning & Development-CRP,466,HR & Admin.,Talent Management and L&OD,HR & Admin.,HR & Admin.,AB290,AB290,15.1
+289,AB300,BU-A,M4,L6,Deputy Manager,Lead-Industrial Relations & Compliance Management,323,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB294,AB294,13.6
+291,AB302,HO,M3,L6,Manager,Lead-Talent Acquisition- CRP,342,HR & Admin.,Talent Acquisition,HR & Admin.,HR & Admin.,AB290,AB290,23.0
+292,AB303,HO,M4,L6,Deputy Manager,Lead-Corporate Affairs & Liaison,323,HR & Admin.,Corporate Affairs & Liaison,HR & Admin.,HR & Admin.,AB293,AB293,15.9
+293,AB304,HO,M3,L6,Manager,Human Resource Business Partner (Corp),323,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB292,AB292,20.0
+303,AB314,BU-C,M4,L6,Deputy Manager,Lead-Payroll & Benefits ,291,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB298,AB991,12.0
+304,AB315,HO,M4,L6,Deputy Manager,Lead-Payroll & Benefits ,291,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB292,AB292,31.3
+305,AB316,HO,M4,L6,Deputy Manager,Lead-Payroll & Benefits ,291,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB292,AB292,8.6
+313,AB324,BU-A,M4,L6,Deputy Manager ,Section Incharge Security,240,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB313,AB313,16.4
+335,AB346,HO,M3,L6,Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB405,AB405,22.1
+342,AB353,HO,M4,L6,Deputy Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB405,AB405,17.0
+343,AB354,HO,M4,L6,Deputy Manager,Team Leader-R&D-Synthesis,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB405,AB405,17.8
+349,AB360,HO,M4,L6,#N/A,Team Leader-R&D-Analytical,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB409,AB409,13.9
+354,AB365,HO,M4,L6,Deputy Manager,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB353,AB353,15.0
+377,AB388,HO,M4,L6,Deputy Manager,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB357,AB357,16.1
+401,AB412,HO,M3,L6,Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB399,AB399,21.7
+402,AB413,HO,M3,L6,Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB399,AB399,19.4
+403,AB414,HO,M3,L6,Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB398,AB398,18.7
+422,AB433,HO,M4,L6,Deputy Manager,Technology Development Executive,247,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB396,AB396,16.0
+428,AB439,HO,M4,L6,Deputy Manager,Software Developer,252,IT Services,IT Software,IT Services,IT Services,AB435,AB444,11.0
+429,AB440,HO,M3,L6,Manager,Lead-ERP Development & Integration,406,IT Services,IT Software,IT Services,IT Services,AB444,AB444,19.0
+435,AB446,HO,M3,L6,Manager,ERP Functional,252,IT Services,IT Software,IT Services,IT Services,AB435,AB435,19.4
+437,AB448,HO,M3,L6,Manager,ERP Functional,252,IT Services,IT Software,IT Services,IT Services,AB435,AB435,13.4
+442,AB453,HO,M4,L6,Deputy Manager,Executive-Legal & Secretarial,301,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB456,AB456,11.3
+446,AB457,BU-A,M4,L6,Deputy Manager,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,17.2
+452,AB463,BU-C,M3,L6,Manager,Sales Manager-BU-C,344,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,15.4
+453,AB464,BU-C,M3,L6,Manager,Sales Manager-BU-C,344,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,16.3
+457,AB468,BU-A,M3,L6,Manager,Sales Manager - BU-A,421,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,19.6
+461,AB472,BU-A,M4,L6,Deputy Manager,Product Manager- BU-A,381,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB480,AB480,12.5
+467,AB478,BU-B,M4,L6,Deputy Manager,Lead-Business Development - BU-B,449,Marketing & Product Management,Business Development,Marketing/ BD/ Product Management,Marketing/ BD/ Product Management,AB481,AB481,17.4
+468,AB479,BU-A,M4,L6,Deputy Manager,IPR & BD Support,301,Marketing & Product Management,Business Development,Marketing/ BD/ Product Management,Marketing/ BD/ Product Management,AB1119,AB1119,12.9
+472,AB483,BU-A,M4,L6,Deputy Manager,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,14.6
+480,AB491,HO,M4,L6,Deputy Manager,Secretary ,301,MD's Office,MD's Office,MD's Office,MD's Office,AB494,AB494,17.3
+485,AB496,BU-A,M3,L6,Manager,Lead-Process Safety,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB577,AB577,21.0
+487,AB498,BU-A,M4,L6,Deputy Manager ,Site Lead-Environment,333,Operational Excellence,Environment,Operational Excellence,Environment,AB577,AB569,17.5
+489,AB500,BU-A,M4,L6,Deputy Manager,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB521,AB521,16.5
+505,AB516,BU-A,M4,L6,Deputy Manager,Section In-charge- Technical Services ,323,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,13.7
+528,AB539,BU-C,M3,L6,Manager,Site Lead-Environment,333,Operational Excellence,Environment,Operational Excellence,Environment,AB966,AB1118,13.0
+543,AB554,BU-B,M4,L6,Deputy Manager,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB1040,AB1040,14.8
+555,AB566,HO,M3,L6,Manager,Lead-Corporate Quality Assurance,353,Operational Excellence,Operational Excellence,Operational Excellence,Operational Excellence,AB568,AB568,20.2
+571,AB582,BU-A,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB019,AB019,14.6
+575,AB586,BU-A,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB019,AB019,13.4
+579,AB590,BU-A,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB020,AB019,16.4
+856,AB867,BU-A,M3,L6,Manager ,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB020,AB020,16.4
+983,AB994,BU-C,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB992,AB992,9.1
+986,AB997,BU-C,M3,L6,Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB992,AB991,13.4
+990,AB1001,BU-C,M4,L6,Deputy Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB1002,AB992,9.1
+991,AB1002,BU-C,M4,L6,Deputy Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB992,AB991,11.7
+"1,031",AB1042,BU-B,M3,L6,Manager,Head-Production,438,Operations,Operations,Operations,Operations,AB419,AB419,18.6
+"1,110",AB1121,BU-C,M3,L6,Manager,Executive Assistant (to TM1 Leaders),353,Operations,Operations,Operations,Operations,AB1118,AB1118,14.2
+"1,111",AB1122,BU-A,M3,L6,Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Control,AB577,AB577,18.7
+"1,112",AB1123,BU-A,M4,L6,Deputy Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1122,AB1122,13.0
+"1,165",AB1176,BU-B,M4,L6,Deputy Manager,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,13.1
+"1,171",AB1182,BU-C,M3,L6,Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Control,AB991,AB1118,11.1
+"1,172",AB1183,BU-C,M4,L6,Deputy Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB991,7.6
+"1,183",AB1194,BU-B,M4,L6,Deputy Manager,Site Lead-QA/QC,479,QA/QC,QA/QC,QA/QC,Quality Assurance,AB419,AB566,16.7
+"1,188",AB1199,BU-B,M4,L6,Deputy Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,16.2
+"1,198",AB1209,BU-B,M3,L6,Manager,Site Lead-Safety & Health - BU-B,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB563,AB563,18.03
+"1,203",AB1214,BU-A,M4,L6,Deputy Manager,Lead-Domestic Outbound Logistics,275,Supply Chain Management,Logistics,Supply Chain Management,Stores,AB577,AB1277,12.61
+"1,244",AB1255,HO,M4,L6,Deputy Manager,Technology Development Executive,247,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB396,AB396,13.93
+"1,255",AB1266,HO,M4,L6,Deputy Manager,Sales Executive,240,Supply Chain Management,Sales & Marketing,Supply Chain Management,Sales & Marketing,AB1277,AB1277,16.66
+"1,263",AB1274,HO,M4,L6,Deputy Manager,Lead-Documentation,247,Supply Chain Management,Documentation,Supply Chain Management,Commercial,AB1277,AB1277,13.05
+"1,268",AB1279,HO,M4,L6,Deputy Manager,Commercial Executive,247,Supply Chain Management,Commercial,Supply Chain Management,Commercial,AB1277,AB1277,12.68
+"1,280",AB1291,HO,M4,L6,Deputy Manager,Team Leader-R&D-Analytical,451,Innovation & Technology,Research & Development,Technology,Research & Development,AB409,AB409,16.50
+2,AB013,BU-B,M6,L7,Senior Executive,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,9.68
+7,AB018,BU-B,M5,L7,Assistant Manager,Plant In-charge - BU-B,381,Operations,Production,Operations,Operations,AB1042,AB1042,7.96
+13,AB024,BU-C,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB925,AB925,16.07
+23,AB034,BU-A,M5,L7,Assistant Manager,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,15.25
+24,AB035,BU-A,M6,L7,Senior Executive,Capex & Documentation Engineer,240,Engineering,CAPEX & MOC,Engineering,Engineering,AB038,AB038,8.55
+25,AB036,BU-A,M6,L7,Senior Executive,Capex & Documentation Engineer,240,Engineering,CAPEX & MOC,Engineering,Engineering,AB038,AB038,9.51
+26,AB037,BU-A,M6,L7,Senior Executive,Capex & Documentation Engineer,240,Engineering,CAPEX & MOC,Engineering,Engineering,AB038,AB038,7.0
+28,AB039,BU-A,M5,L7,Assistant Manager,Section In charge- Civil,284,Engineering,Civil Engineering,Engineering,Engineering,AB030,AB030,11.38
+29,AB040,BU-A,M5,L7,Assistant Manager,Section In charge- Civil,284,Engineering,Civil Engineering,Engineering,Engineering,AB030,AB030,12.03
+32,AB043,BU-A,M6,L7,Senior Executive,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB042,AB103,10.45
+33,AB044,BU-A,M6,L7,Senior Executive ,Section In charge- Instrumentation,284,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,5.9
+36,AB047,BU-A,M5,L7,Assistant Manager,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,9.29
+37,AB048,BU-A,M5,L7,Assistant Manager,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,7.16
+38,AB049,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,9.19
+39,AB050,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,6.02
+41,AB052,BU-A,M6,L7,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB051,AB032,8.3
+42,AB053,BU-A,M5,L7,Assistant Manager,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,11.2
+43,AB054,BU-A,M6,L7,Executive ,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,8.30
+44,AB055,BU-A,M5,L7,Assistant Manager,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,12.00
+45,AB056,BU-A,M6,L7,Senior Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,8.91
+50,AB061,BU-A,M6,L7,Senior Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,6.51
+65,AB076,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,6.29
+66,AB077,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,5.1
+68,AB079,BU-A,M6,L7,Senior Executive,Costing Engineer,247,Engineering,Mechanical Engineering,Engineering,Engineering,AB030,AB030,6.58
+75,AB086,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,7.30
+94,AB105,BU-A,M6,L7,Senior Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,10.40
+103,AB114,BU-A,M5,L7,Engineering,Section In charge- Utilities,284,Engineering,Utilities Engineering,Engineering,Engineering,AB032,AB032,12.00
+106,AB117,BU-C,M5,L7,Assistant Manager,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB138,15.89
+109,AB120,BU-C,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB138,AB966,10.38
+119,AB130,BU-C,M6,L7,Senior Executive,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB138,AB966,5.82
+138,AB149,BU-C,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB129,AB966,5.10
+139,AB150,BU-C,M5,L7,Assistant Manager,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB966,11.50
+140,AB151,BU-B,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB975,AB975,11.91
+144,AB155,BU-B,M6,L7,Senior Executive,Section In charge- Utilities,284,Engineering,Utilities Engineering,Engineering,Engineering,AB975,AB975,9.91
+148,AB159,BU-C,M5,L7,Assistant Manager,Section In charge- Electrical,284,Engineering,Electrical Engineering,Engineering,Engineering,AB158,AB194,5.95
+151,AB162,BU-C,M5,L7,Assistant Manager,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB992,AB991,7.42
+152,AB163,BU-C,M5,L7,Assistant Manager,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB992,AB991,6.5
+153,AB164,BU-C,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB992,AB991,5.5
+154,AB165,BU-C,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB992,AB991,5.8
+155,AB166,BU-C,M5,L7,Assistant Manager,Lead-Mechanical,344,Engineering,Mechanical Engineering,Engineering,Engineering,AB194,AB991,14.1
+157,AB168,BU-C,M5,L7,Assistant Manager,Lead-Utilities,344,Engineering,Utilities Engineering,Engineering,Engineering,AB194,AB991,10.25
+162,AB173,BU-C,M6,L7,Senior Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB166,AB194,4.34
+167,AB178,BU-C,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB157,AB991,3.84
+185,AB196,BU-B,M6,L7,Senior Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB201,AB195,11.56
+186,AB197,BU-B,M6,L7,Senior Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB199,AB195,8.66
+187,AB198,BU-B,M5,L7,Assistant Manager,Section In charge- Instrumentation,284,Engineering,Instrumentation Engineering,Engineering,Engineering,AB227,AB227,10.38
+188,AB199,BU-B,M5,L7,Assistant Manager,Section In charge- Instrumentation,284,Engineering,Instrumentation Engineering,Engineering,Engineering,AB227,AB227,11.57
+189,AB200,BU-B,M6,L7,Senior Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB199,AB195,8.64
+190,AB201,BU-B,M6,L7,Senior Executive,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB195,AB195,7.15
+191,AB202,BU-B,M5,L7,Assistant Manager,Section In charge- Mechanical,284,Engineering,Mechanical Engineering,Engineering,Engineering,AB195,AB195,9.12
+192,AB203,BU-B,M6,L7,Senior Executive,Section In charge- Civil,284,Engineering,Civil Engineering,Engineering,Engineering,AB227,AB227,13.58
+222,AB233,HO,M5,L7,Assistant Manager,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB230,AB230,14.87
+243,AB254,BU-C,M6,L7,Senior Executive,Planning & MIS Executive,291,Finance & Accounts,MIS & Costing,Finance & Accounts,Finance & Accounts,AB237,AB966,6.55
+244,AB255,BU-A,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,11.55
+245,AB256,BU-A,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,12.60
+246,AB257,BU-A,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,11.29
+247,AB258,BU-A,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,8.80
+249,AB260,BU-A,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,11.13
+254,AB265,BU-C,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB237,AB966,7.92
+255,AB266,BU-C,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB237,AB966,6.24
+257,AB268,BU-B,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB241,AB241,14.7
+258,AB269,BU-B,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB241,AB241,9.62
+259,AB270,BU-B,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB241,AB241,8.95
+260,AB271,BU-B,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB241,AB241,17.59
+261,AB272,BU-B,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB241,AB241,8.05
+262,AB273,BU-C,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB253,AB991,13.17
+263,AB274,BU-C,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB253,AB991,9.99
+264,AB275,BU-C,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB253,AB991,6.68
+265,AB276,BU-B,M6,L7,Senior Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB419,AB239,8.2
+267,AB278,HO,M5,L7,Assistant Manager,Lead Direct Taxation,282,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB231,AB231,8.33
+268,AB279,HO,M5,L7,Assistant Manager,Lead-Accounts & Indirect Taxation,282,Finance & Accounts,Accounts & Taxation,Finance & Accounts,Finance & Accounts,AB231,AB231,8.33
+271,AB282,HO,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB231,AB231,13.2
+273,AB284,HO,M5,L7,Assistant Manager,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB231,AB231,13.84
+274,AB285,HO,M6,L7,Senior Executive,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB232,AB232,6.91
+275,AB286,HO,M6,L7,Senior Executive,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB246,AB246,8.02
+276,AB287,HO,M5,L7,Assistant Manager,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB248,AB248,8.59
+295,AB306,BU-C,M5,L7,Assistant Manager,Lead-Human Resource Operations (Units),323,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB295,AB966,8.6
+296,AB307,BU-C,M5,L7,Assistant Manager,Lead-Human Resource Operations (Units),323,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB295,AB966,11.7
+298,AB309,BU-B,M5,L7,Assistant Manager,Lead-Industrial Relations & Compliance Management,323,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB312,AB312,7.75
+299,AB310,HO,M5,L7,Assistant Manager,Lead-Talent Acquisition- CRP,342,HR & Admin.,Talent Acquisition,HR & Admin.,HR & Admin.,AB290,AB289,8.3
+306,AB317,BU-A,M6,L7,Senior Executive ,Lead-Talent Acquisition- Units,291,HR & Admin.,Talent Acquisition,HR & Admin.,HR & Admin.,AB294,AB294,4.25
+307,AB318,BU-A,M5,L7,Assistant Manager,Lead-Payroll & Benefits ,291,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB294,AB294,8.36
+309,AB320,BU-B,M5,L7,Assistant Manager,Site Lead-Administration & Security,291,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB312,AB312,19.35
+310,AB321,BU-B,M6,L7,Sr. Executive,Lead-Talent Acquisition- Units,291,HR & Admin.,Talent Acquisition,HR & Admin.,HR & Admin.,AB312,AB312,2.91
+314,AB325,BU-A,M5,L7,Assistant Manager ,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,8.50
+315,AB326,BU-A,M5,L7,Assistant Manager ,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,8.03
+316,AB327,BU-A,M5,L7,Assistant Manager ,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,7.88
+317,AB328,BU-C,M6,L7,Senior Executive,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB295,AB966,5.4
+318,AB329,HO,M6,L7,Senior Executive,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB290,AB290,6.08
+319,AB330,HO,M6,L7,Senior Executive,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB315,AB315,7.75
+320,AB331,BU-B,M5,L7,Asst. Manager,Section Incharge Security,240,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB312,AB312,6.00
+324,AB335,HO,M5,L7,Assistant Manager,Executive Assistant (to TM2 Leaders),301,HR & Admin.,HR & Admin.,HR & Admin.,HR & Admin.,AB289,AB289,8.30
+334,AB345,HO,M5,L7,Assistant Manager,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB346,AB405,14.9
+336,AB347,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB346,AB405,10.0
+337,AB348,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB346,AB405,9.3
+338,AB349,HO,M5,L7,Assistant Manager,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB346,AB405,1.10
+340,AB351,HO,M5,L7,Assistant Manager,Technology Development Executive,247,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB396,AB396,8.53
+341,AB352,HO,M6,L7,Senior Executive,Technology Development Executive,247,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Technology Development-PERI,AB396,AB396,7.00
+347,AB358,HO,M6,L7,#N/A,Team Leader-R&D-Piloting & Process Engineering,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,8.00
+348,AB359,HO,M6,L7,Senior Executive,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB248,AB248,6.01
+350,AB361,HO,M5,L7,#N/A,Team Leader-R&D-Analytical,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB409,AB409,13.80
+351,AB362,HO,M6,L7,Senior Executive,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB232,AB232,6.08
+353,AB364,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB353,AB353,6.09
+355,AB366,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB406,AB406,7.72
+356,AB367,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB406,AB406,7.49
+357,AB368,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB406,AB406,9.04
+358,AB369,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,11.05
+359,AB370,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,9.80
+360,AB371,HO,M5,L7,Assistant Manager,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,7.13
+361,AB372,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,8.03
+362,AB373,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,8.25
+363,AB374,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,12.24
+365,AB376,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB353,AB353,7.11
+367,AB378,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,6.95
+372,AB383,HO,M5,L7,Assistant Manager,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,9.50
+374,AB385,HO,M6,L7,Senior Executive,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB353,AB353,14.26
+375,AB386,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,12.22
+376,AB387,HO,M5,L7,Assistant Manager,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,15.11
+378,AB389,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,5.98
+379,AB390,HO,M6,L7,Senior Executive,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB358,AB358,13.28
+381,AB392,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB357,AB357,4.68
+383,AB394,HO,M6,L7,Senior Executive,Technology Development Executive,247,Innovation & Technology,Technology Development-PERI,Innovation & Technology,Research & Development,AB357,AB357,6.50
+399,AB410,HO,M5,L7,Assistant Manager,Executive Assistant (to TM2 Leaders),301,Innovation & Technology,Innovation & Technology,Innovation & Technology,Innovation & Technology,AB338,AB338,11.60
+404,AB415,BU-A,M6,L7,Senior Executive,Procurement Executive - BU-A,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1239,AB1239,7.00
+406,AB417,BU-C,M5,L7,Assistant Manager,Procurement Executive - BU-C,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1254,AB991,7.35
+409,AB420,HO,M5,L7,Assistant Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB398,AB398,11.70
+410,AB421,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB398,AB398,8.19
+412,AB423,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB399,AB404,8.50
+413,AB424,HO,M6,L7,Senior Executive,Draftsmen,199,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB414,AB414,7.30
+414,AB425,HO,M5,L7,Assistant Manager,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB409,AB409,12.71
+415,AB426,HO,M6,L7,Senior Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB360,AB360,9.06
+416,AB427,HO,M6,L7,Senior Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB360,AB360,6.50
+417,AB428,HO,M6,L7,Senior Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB360,AB360,8.92
+419,AB430,HO,M5,L7,Assistant Manager,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB360,AB360,9.60
+426,AB437,HO,M5,L7,Assistant Manager,Software Developer,252,IT Services,IT Software,IT Services,IT Services,AB435,AB435,7.72
+427,AB438,HO,M6,L7,Senior Executive,Software Developer,252,IT Services,IT Software,IT Services,IT Services,AB435,AB444,5.00
+431,AB442,HO,M6,L7,Senior Executive,IT Commercial Executive,240,IT Services,IT Infrastructure,IT Services,IT Services,AB436,AB436,8.80
+432,AB443,HO,M6,L7,Senior Executive,IT Infrastructure Engineer,323,IT Services,IT Infrastructure,IT Services,IT Services,AB436,AB436,5.23
+436,AB447,HO,M6,L7,Senior Executive,ERP Functional,252,IT Services,IT Software,IT Services,IT Services,AB435,AB435,7.60
+443,AB454,HO,M6,L7,Senior Executive,Executive-Legal & Secretarial,301,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB456,AB456,13.68
+444,AB455,HO,M6,L7,Senior Executive,Executive-Legal & Secretarial,301,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,Legal & Secretarial,AB456,AB456,10.48
+448,AB459,BU-A,M6,L7,Senior Executive,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB458,AB480,7.60
+450,AB461,BU-A,M5,L7,Assistant Manager,Sales Manager - BU-A,421,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,15.63
+454,AB465,BU-C,M5,L7,Assistant Manager,Sales Manager-BU-C,344,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,8.17
+463,AB474,BU-A,M6,L7,Senior Executive,Product Manager- BU-A,381,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB480,AB480,8.83
+473,AB484,BU-A,M6,L7,Senior Executive,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,7.96
+475,AB486,BU-C,M5,L7,Assistant Manager,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,10.07
+476,AB487,BU-C,M6,L7,Senior Executive,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,4.78
+477,AB488,BU-C,M6,L7,Senior Executive,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB476,AB476,7.59
+488,AB499,BU-A,M6,L7,Senior Executive ,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,6.38
+490,AB501,BU-A,M5,L7,Assistant Manager,Section In-charge- Technical Services ,323,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,12.99
+491,AB502,BU-A,M5,L7,Assistant Manager,Section In-charge- Technical Services ,323,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,9.60
+492,AB503,BU-A,M5,L7,Assistant Manager,Section In-charge- Technical Services ,323,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,13.6
+493,AB504,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,4.76
+494,AB505,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,6.34
+495,AB506,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,5.23
+502,AB513,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,8.00
+506,AB517,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,8.05
+507,AB518,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,5.80
+508,AB519,BU-A,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,10.00
+509,AB520,BU-A,M6,L7,Senior Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB521,AB521,5.50
+512,AB523,BU-A,M6,L7,SHE,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB521,AB521,7.9
+513,AB524,BU-A,M6,L7,Plant Technical Services,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,9.00
+514,AB525,BU-C,M5,L7,Assistant Manager,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB534,AB534,12.2
+516,AB527,BU-C,M5,L7,Assistant Manager,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB528,AB966,7.41
+527,AB538,BU-C,M5,L7,Assistant Manager,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB528,AB966,7.00
+532,AB543,BU-B,M5,L7,Assistant Manager,Site Lead-Technical services,466,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB975,AB338,12.93
+534,AB545,BU-B,M5,L7,Assistant Manager,Site Lead-Safety & Health - BU-B,333,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB975,AB975,9.71
+539,AB550,BU-B,M5,L7,Assistant Manager,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB1209,AB1209,10.61
+540,AB551,BU-B,M5,L7,Assistant Manager,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB1209,AB1209,11.44
+541,AB552,BU-B,M6,L7,Senior Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,"Safety, Health, Environment",AB259,AB259,10.30
+542,AB553,BU-B,M6,L7,Senior Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,8.36
+545,AB556,BU-B,M6,L7,Sr. Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,8.34
+559,AB570,HO,M6,L7,Senior Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB569,AB569,7.21
+560,AB571,HO,M6,L7,Senior Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB569,AB569,8.71
+565,AB576,BU-C,M6,L7,Senior Executive,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,5.9
+568,AB579,BU-A,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB019,AB019,12.16
+569,AB580,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB586,AB019,6.19
+570,AB581,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB586,AB019,12.78
+572,AB583,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB582,AB019,7.97
+573,AB584,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB582,AB019,7.48
+574,AB585,BU-A,M6,L7,Senior Executive ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB582,AB019,7.47
+576,AB587,BU-A,M6,L7,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB622,AB019,11.97
+577,AB588,BU-A,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB019,AB019,7.28
+580,AB591,BU-A,M6,L7,Senior Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB019,6.27
+581,AB592,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB602,AB019,6.18
+582,AB593,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB867,AB019,7.45
+583,AB594,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB019,6.68
+584,AB595,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB602,AB019,5.98
+585,AB596,BU-A,M5,L7,Assistant Manager,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB019,13.58
+586,AB597,BU-A,M5,L7,Assistant Manager,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB019,11.86
+587,AB598,BU-A,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB019,10.1
+588,AB599,BU-A,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB019,11.82
+589,AB600,BU-A,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB019,10.81
+590,AB601,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB602,AB019,7.07
+591,AB602,BU-A,M5,L7,Assistant Manager ,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB020,AB019,8.41
+592,AB603,BU-A,M6,L7,Senior Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB019,5.27
+593,AB604,BU-A,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB021,AB019,8.31
+594,AB605,BU-A,M6,L7,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,11.65
+595,AB606,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,9.91
+596,AB607,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,10.94
+597,AB608,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,9.6
+598,AB609,BU-A,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB021,AB019,12.0
+599,AB610,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,8.9
+600,AB611,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,7.91
+601,AB612,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,7.10
+602,AB613,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB019,6.43
+603,AB614,BU-A,M6,L7,Senior Executive,Technical Assistant,247,Operations,Technical Assistance,Operations,Operations,AB577,AB577,8.08
+606,AB617,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB622,AB019,5.93
+611,AB622,BU-A,M5,L7,Assistant Manager ,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB019,AB019,8.45
+652,AB663,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB582,AB019,8.97
+682,AB693,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.28
+691,AB702,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB602,AB020,5.68
+692,AB703,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB867,AB020,5.82
+711,AB722,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,5.80
+717,AB728,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB602,AB020,6.41
+728,AB739,BU-A,M6,L7,Senior Executive ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB602,AB020,6.50
+739,AB750,BU-A,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB021,7.67
+752,AB763,BU-A,M6,L7,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB021,7.53
+841,AB852,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,6.30
+846,AB857,BU-A,M6,L7,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,5.95
+855,AB866,BU-A,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,8.16
+872,AB883,BU-C,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,10.44
+873,AB884,BU-C,M5,L7,Assistant Manager,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,11.16
+874,AB885,BU-C,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,10.45
+875,AB886,BU-C,M5,L7,Assistant Manager,Production Planner,247,Operations,Production Planning,Operations,Operations,AB025,AB925,6.20
+876,AB887,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,10.10
+877,AB888,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,11.97
+878,AB889,BU-C,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,5.60
+881,AB892,BU-C,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,6.39
+884,AB895,BU-B,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB023,AB966,10.16
+885,AB896,BU-B,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,8.49
+886,AB897,BU-B,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,7.11
+887,AB898,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB023,AB966,10.62
+889,AB900,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,10.72
+890,AB901,BU-B,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB023,AB966,7.92
+891,AB902,BU-C,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB022,AB925,6.09
+905,AB916,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,10.06
+907,AB918,BU-C,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,5.88
+910,AB921,BU-C,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,6.55
+920,AB931,BU-C,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,6.23
+922,AB933,BU-B,M6,L7,Senior Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,6.66
+924,AB935,BU-B,M6,L7,Senior Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,5.21
+940,AB951,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB023,AB966,6.15
+944,AB955,BU-C,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,5.99
+949,AB960,BU-C,M5,L7,Assistant Manager,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,6.00
+950,AB961,BU-C,M5,L7,Assistant Manager,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,7.00
+954,AB965,BU-C,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB025,AB925,8.80
+959,AB970,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB983,AB983,10.41
+960,AB971,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB983,AB983,10.68
+961,AB972,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB983,AB983,9.60
+962,AB973,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB983,AB983,11.74
+967,AB978,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB983,AB983,12.31
+972,AB983,BU-B,M5,L7,Assistant Manager,Section Incharge - Production,353,Operations,Operations,Operations,Operations,AB975,AB975,9.30
+982,AB993,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB997,AB992,15.90
+984,AB995,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB994,AB992,12.24
+985,AB996,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB994,AB992,6.85
+987,AB998,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB997,AB992,11.25
+988,AB999,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB997,AB992,9.35
+989,AB1000,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB997,AB992,7.10
+992,AB1003,BU-C,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB1002,AB992,9.22
+993,AB1004,BU-C,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB1002,AB992,4.37
+"1,030",AB1041,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB413,AB413,5.17
+"1,033",AB1044,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB012,AB012,12.35
+"1,034",AB1045,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB412,AB412,5.17
+"1,035",AB1046,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB012,AB012,8.88
+"1,036",AB1047,HO,M5,L7,Assistant Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB413,AB413,15.75
+"1,037",AB1048,BU-B,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB013,AB013,10.67
+"1,038",AB1049,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB013,AB013,8.71
+"1,039",AB1050,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB014,AB014,11.66
+"1,040",AB1051,HO,M5,L7,Assistant Manager,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB412,AB399,7.80
+"1,041",AB1052,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB017,AB017,8.36
+"1,042",AB1053,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB017,AB017,8.83
+"1,043",AB1054,BU-B,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB017,AB017,10.09
+"1,044",AB1055,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB014,AB014,10.94
+"1,045",AB1056,BU-B,M5,L7,Assistant Manager,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB015,AB015,12.76
+"1,046",AB1057,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB015,AB015,9.91
+"1,047",AB1058,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB015,AB015,10.60
+"1,048",AB1059,HO,M6,L7,#N/A,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB360,AB360,6.77
+"1,049",AB1060,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB013,AB013,9.62
+"1,050",AB1061,HO,M5,L7,#N/A,Team Leader-R&D-Piloting & Process Engineering,451,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB357,AB357,13.84
+"1,051",AB1062,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB016,AB016,9.2
+"1,052",AB1063,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB012,AB012,8.8
+"1,053",AB1064,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB016,AB016,9.1
+"1,054",AB1065,HO,M6,L7,Senior Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB425,AB425,10.6
+"1,057",AB1068,BU-B,M6,L7,Senior Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB012,AB012,4.0
+"1,067",AB1078,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB015,AB015,3.2
+"1,078",AB1089,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB016,AB016,2.9
+"1,084",AB1095,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB018,AB018,8.0
+"1,085",AB1096,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB018,AB018,5.4
+"1,086",AB1097,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB018,AB018,4.5
+"1,099",AB1110,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB018,AB018,2.5
+"1,100",AB1111,BU-B,M6,L7,Sr. Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB013,AB013,6.5
+"1,113",AB1124,BU-A,M5,L7,Assistant Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1122,AB1122,10.8
+"1,114",AB1125,BU-A,M5,L7,Assistant Manager,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1122,AB1122,11.3
+"1,115",AB1126,BU-A,M6,L7,Senior Executive,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Assurance,AB1122,AB1122,9.0
+"1,116",AB1127,BU-A,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,10.1
+"1,117",AB1128,BU-A,M6,L7,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,10.64
+"1,118",AB1129,BU-A,M6,L7,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,10.47
+"1,119",AB1130,BU-A,M6,L7,Executive,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Assurance,AB1122,AB1122,7.49
+"1,120",AB1131,BU-A,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,9.55
+"1,121",AB1132,BU-A,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,7.18
+"1,124",AB1135,BU-A,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,9.38
+"1,126",AB1137,BU-A,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,7.94
+"1,145",AB1156,BU-C,M5,L7,Assistant Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,18.47
+"1,148",AB1159,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,8.62
+"1,149",AB1160,BU-C,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,8.2
+"1,151",AB1162,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,7.6
+"1,152",AB1163,BU-C,M5,L7,Assistant Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Assurance,AB1168,AB966,13.41
+"1,153",AB1164,BU-C,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,6.51
+"1,158",AB1169,BU-C,M5,L7,Assistant Manager,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,10.13
+"1,159",AB1170,BU-C,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Assurance,AB1168,AB966,10.10
+"1,162",AB1173,BU-B,M5,L7,Assistant Manager,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,13.27
+"1,164",AB1175,BU-B,M6,L7,Senior Executive,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,8.44
+"1,166",AB1177,BU-B,M6,L7,Senior Executive,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,5.70
+"1,168",AB1179,BU-B,M6,L7,Senior Executive,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,6.66
+"1,173",AB1184,BU-C,M5,L7,Assistant Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB991,7.85
+"1,174",AB1185,BU-C,M5,L7,Assistant Manager,Section In-charge QA/ QC ,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB991,6.82
+"1,182",AB1193,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Assurance,AB1194,AB1194,7.73
+"1,184",AB1195,BU-B,M5,L7,Assistant Manager,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,11.25
+"1,185",AB1196,BU-B,M5,L7,Assistant Manager,Shift In-charge-QA/ QC,252,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,11.23
+"1,186",AB1197,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,10.58
+"1,187",AB1198,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,10.29
+"1,189",AB1200,BU-B,M6,L7,Senior Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,7.49
+"1,201",AB1212,BU-A,M6,L7,Senior Executive ,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1211,AB1211,5.65
+"1,202",AB1213,BU-A,M6,L7,Executive ,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1211,AB1211,8.47
+"1,204",AB1215,BU-A,M6,L7,Senior Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,6.86
+"1,205",AB1216,BU-A,M6,L7,Executive ,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,8.47
+"1,206",AB1217,BU-A,M6,L7,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,8.11
+"1,207",AB1218,BU-A,M6,L7,Executive ,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,6.45
+"1,208",AB1219,BU-A,M6,L7,Senior Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,8.52
+"1,210",AB1221,BU-A,M6,L7,Senior Executive,Procurement Executive - BU-A,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1239,AB1239,8.04
+"1,224",AB1235,BU-B,M6,L7,Assistant Manager,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB554,AB554,11.34
+"1,225",AB1236,BU-A,M5,L7,Assistant Manager,Procurement Executive - BU-A,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1239,AB1239,8.00
+"1,231",AB1242,BU-C,M5,L7,Assistant Manager,Lead-Logistics-Unit,275,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1247,AB966,17.36
+"1,234",AB1245,BU-B,M5,L7,Assistant Manager,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB554,AB554,10.52
+"1,235",AB1246,BU-C,M5,L7,Assistant Manager,Lead-Logistics-Unit,275,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1247,AB966,11.57
+"1,241",AB1252,BU-B,M6,L7,Senior Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB975,AB1259,6.82
+"1,245",AB1256,BU-C,M5,L7,Assistant Manager,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Materials,AB1254,AB991,11.43
+"1,246",AB1257,BU-C,M6,L7,Senior Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1254,AB991,6.09
+"1,249",AB1260,BU-B,M5,L7,Assistant Manager,Procurement Executive - BU-B,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1259,AB1259,12.41
+"1,250",AB1261,BU-B,M5,L7,Assistant Manager,Lead-Logistics-Unit,275,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1259,AB1259,11.53
+"1,257",AB1268,HO,M5,L7,Assistant Manager,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1277,AB1277,10.71
+"1,258",AB1269,HO,M5,L7,Assistant Manager,Lead-Logistics-Unit,275,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1277,AB1277,12.43
+"1,259",AB1270,HO,M6,L7,Senior Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1277,AB1277,10.13
+"1,261",AB1272,HO,M5,L7,Senior Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB408,AB408,8.00
+"1,262",AB1273,HO,M5,L7,Assistant Manager,Lead-Raw Materials Procurement (CRP) ,438,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1276,AB1276,15.71
+"1,267",AB1278,HO,M5,L7,Assistant Manager,ERP Specialist (SAP),252,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1276,AB1276,13.10
+"1,270",AB1281,HO,M5,L7,Assistant Manager,Documentation Executive,235,Supply Chain Management,Documentation,Supply Chain Management,Commercial,AB1277,AB1277,11.02
+"1,271",AB1282,HO,M6,L7,Senior Executive,Documentation Executive,235,Supply Chain Management,Documentation,Supply Chain Management,Commercial,AB1277,AB229,6.80
+"1,272",AB1283,HO,M5,L7,Assistant Manager,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1275,AB1277,10.50
+"1,277",AB1288,HO,M6,L7,Senior Executive,Procurement Executive - HO,240,Innovation & Technology,Materials/ Strategic Sourcing,Technology,Research & Development,AB338,AB338,5.00
+"1,278",AB1289,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Technology,Research & Development,AB355,AB355,6.40
+"1,279",AB1290,HO,M6,L7,Senior Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Technology,Research & Development,AB353,AB353,7.50
+"1,281",AB1292,HO,M6,L7,Senior Executive,Procurement Executive - HO,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1276,AB1276,4.67
+"1,283",AB1294,HO,M5,L7,Assistant Manager,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB569,AB569,5.50
+"1,285",AB1296,HO,M6,L7,Senior Executive,Production Planning & Inventory Control (PPIC) Executive,247,Operational Excellence,Production Planning & Inventory Control (PPIC),Operational Excellence,Operational Excellence,AB564,AB564,4.68
+"1,286",AB1297,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Technology,Process Engineering,AB413,AB413,4.68
+"1,287",AB1298,HO,M6,L7,Senior Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Technology,Process Engineering,AB414,AB414,4.68
+"1,289",AB1300,HO,M6,L7,Senior Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety,AB575,AB575,4.68
+"1,290",AB1301,BU-C,M5,L7,Assistant Manager,Sales Executive,240,Marketing & Product Management,Sales & Marketing,Marketing & BD,Sales & Marketing,AB463,AB463,6.60
+"1,291",AB1302,BU-C,M5,L7,Assistant Manager,Sales Executive,240,Marketing & Product Management,Sales & Marketing,Marketing & BD,Sales & Marketing,AB470,AB470,6.60
+"1,292",AB1303,BU-C,M5,L7,Assistant Manager,Sales Executive,240,Marketing & Product Management,Sales & Marketing,Marketing & BD,Sales & Marketing,AB476,AB476,6.60
+"1,294",AB1305,HO,M5,L7,Assistant Manager,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Technology,Research & Development,AB357,AB357,7.70
+"1,298",AB1309,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Technology,Research & Development,AB357,AB357,4.68
+"1,299",AB1310,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Technology,Research & Development,AB357,AB357,4.68
+"1,300",AB1311,HO,M6,L7,Senior Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Technology,Research & Development,AB408,AB408,4.68
+"1,322",AB1333,BU-A,M6,L7,Senior Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB031,AB031,7.80
+46,AB057,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,5.56
+47,AB058,BU-A,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB039,AB039,7.81
+48,AB059,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB041,AB029,6.90
+49,AB060,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB041,AB029,5.55
+51,AB062,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,6.63
+52,AB063,BU-A,M8,L8,Assistant Officer,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB041,AB029,8.14
+53,AB064,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB028,AB029,4.67
+54,AB065,BU-A,M8,L8,Assistant Officer,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB041,AB029,5.88
+55,AB066,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,4.08
+56,AB067,BU-A,M7,L8,Executive,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,9.08
+57,AB068,BU-A,M7,L8,Officer,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,7.07
+58,AB069,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB103,AB103,6.53
+59,AB070,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB103,AB103,5.84
+60,AB071,BU-A,M7,L8,Officer,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,4.85
+61,AB072,BU-A,M8,L8,Assistant Officer,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,3.69
+62,AB073,BU-A,M7,L8,Officer ,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB103,AB103,5.35
+63,AB074,BU-A,M7,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB103,AB103,4.93
+64,AB075,BU-A,M8,L8,Assistant Officer,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB103,AB103,3.47
+67,AB078,BU-A,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,4.19
+69,AB080,BU-A,M7,L8,Officer,Documentation Executive,235,Engineering,Documentation,Engineering,Engineering,AB030,AB030,7.65
+70,AB081,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB045,AB045,8.87
+71,AB082,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB046,AB046,8.77
+72,AB083,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB046,AB046,6.42
+73,AB084,BU-A,M7,L8,Officer ,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,5.46
+74,AB085,BU-A,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,3.32
+76,AB087,BU-A,M7,L8,Executive ,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,3.55
+77,AB088,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB045,AB045,4.50
+78,AB089,BU-A,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB031,AB031,3.85
+79,AB090,BU-A,M7,L8,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB051,AB032,9.24
+80,AB091,BU-A,M7,L8,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,8.16
+81,AB092,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,8.60
+82,AB093,BU-A,M7,L8,Officer ,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,7.19
+83,AB094,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB051,AB032,7.00
+84,AB095,BU-A,M7,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB051,AB032,7.81
+85,AB096,BU-A,M7,L8,Officer ,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB114,AB032,6.15
+86,AB097,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,5.23
+87,AB098,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,4.01
+88,AB099,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB033,AB032,5.82
+89,AB100,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB114,AB032,6.22
+90,AB101,BU-A,M7,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB114,AB032,5.36
+91,AB102,BU-A,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB114,AB032,3.83
+93,AB104,BU-A,M7,L8,Officer,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,6.80
+95,AB106,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB031,AB031,3.20
+96,AB107,BU-A,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,4.20
+97,AB108,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB041,AB029,3.25
+98,AB109,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,6.10
+99,AB110,BU-A,M7,L8,Executive,Capex & Documentation Engineer,240,Engineering,CAPEX & MOC,Engineering,Engineering,AB038,AB038,2.80
+100,AB111,BU-A,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB028,AB029,5.50
+101,AB112,BU-A,M7,L8,Officer,Draftsmen,199,Engineering,Mechanical Engineering,Engineering,Engineering,AB313,AB030,5.00
+102,AB113,BU-A,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB045,AB045,4.70
+104,AB115,BU-A,M7,L8,Engineering,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB045,AB045,7.80
+105,AB116,BU-C,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB138,AB966,7.63
+107,AB118,BU-C,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB138,9.52
+108,AB119,BU-C,M7,L8,Executive,Lead-Utilities,344,Engineering,Utilities Engineering,Engineering,Engineering,AB138,AB966,8.02
+110,AB121,BU-C,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB138,6.11
+111,AB122,BU-C,M8,L8,Officer,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB138,AB966,4.19
+112,AB123,BU-C,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB138,AB966,5.95
+113,AB124,BU-C,M7,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.69
+114,AB125,BU-C,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB138,6.22
+115,AB126,BU-C,M7,L8,Executive,Capex & Documentation Engineer,240,Engineering,CAPEX & MOC,Engineering,Engineering,AB138,AB966,3.80
+116,AB127,BU-C,M7,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB138,AB966,4.72
+117,AB128,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.65
+120,AB131,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.82
+121,AB132,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.49
+122,AB133,BU-C,M7,L8,Executive,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB138,AB966,5.79
+123,AB134,BU-C,M7,L8,Executive,Electrical Engineer,228,Engineering,Electrical Engineering,Engineering,Engineering,AB138,AB138,5.89
+124,AB135,BU-C,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB138,AB966,6.43
+126,AB137,BU-C,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB138,AB966,4.35
+128,AB139,BU-C,M8,L8,Assistant Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB138,AB966,4.05
+129,AB140,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,5.20
+130,AB141,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.40
+131,AB142,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.40
+132,AB143,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,4.50
+133,AB144,BU-C,M7,L8,Executive,Instrumentation Engineer,228,Engineering,Instrumentation Engineering,Engineering,Engineering,AB138,AB966,6.37
+134,AB145,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,5.95
+135,AB146,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,5.27
+136,AB147,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,5.10
+137,AB148,BU-C,M8,L8,Assistant Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB966,3.40
+142,AB153,BU-B,M7,L8,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB975,AB975,8.32
+143,AB154,BU-B,M7,L8,Executive,Lead - Electrical/ Instrumentation,344,Engineering,Electrical Engineering,Engineering,Engineering,AB975,AB975,5.44
+145,AB156,BU-B,M7,L8,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB975,AB975,8.38
+158,AB169,BU-C,M8,L8,Officer ,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB166,AB194,3.33
+159,AB170,BU-C,M8,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB168,AB194,3.70
+160,AB171,BU-C,M8,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB167,AB194,3.52
+161,AB172,BU-C,M8,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB166,AB194,3.51
+163,AB174,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB166,AB194,2.96
+164,AB175,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB158,AB194,3.85
+165,AB176,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB167,AB194,3.12
+166,AB177,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB167,AB194,2.96
+168,AB179,BU-C,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,3.83
+169,AB180,BU-C,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,5.52
+170,AB181,BU-C,M8,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB168,AB194,3.39
+171,AB182,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,4.09
+172,AB183,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,2.64
+173,AB184,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB168,AB194,2.70
+174,AB185,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,2.55
+175,AB186,BU-C,M8,L8,Officer,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB166,AB194,3.15
+176,AB187,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,2.10
+177,AB188,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB161,AB194,2.19
+178,AB189,BU-C,M8,L8,Officer,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB161,AB194,2.38
+179,AB190,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB160,AB194,2.37
+180,AB191,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB166,AB194,2.14
+181,AB192,BU-C,M8,L8,Officer ,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB166,AB194,2.80
+182,AB193,BU-C,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB167,AB194,3.36
+193,AB204,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB201,AB195,9.90
+194,AB205,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB201,AB195,9.90
+195,AB206,BU-B,M7,L8,Executive,Section In charge- Electrical,284,Engineering,Electrical Engineering,Engineering,Engineering,AB227,AB227,6.04
+196,AB207,BU-B,M7,L8,Executive,Section In charge- Electrical,284,Engineering,Electrical Engineering,Engineering,Engineering,AB227,AB227,3.86
+197,AB208,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB201,AB195,9.90
+198,AB209,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB199,AB195,8.61
+199,AB210,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.50
+200,AB211,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.35
+201,AB212,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,9.25
+202,AB213,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.63
+203,AB214,BU-B,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB202,AB195,7.70
+204,AB215,BU-B,M7,L8,Executive,Utilities Engineer,228,Engineering,Utilities Engineering,Engineering,Engineering,AB202,AB195,5.70
+205,AB216,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,9.20
+206,AB217,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,7.98
+207,AB218,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.89
+208,AB219,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,9.12
+209,AB220,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,7.52
+210,AB221,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.41
+211,AB222,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,7.43
+212,AB223,BU-B,M7,L8,Executive,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.73
+213,AB224,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.73
+214,AB225,BU-B,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB202,AB195,8.85
+215,AB226,BU-B,M8,L8,Officer,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB554,AB554,5.80
+217,AB228,BU-B,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB202,AB195,2.70
+250,AB261,BU-A,M7,L8,Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,7.53
+251,AB262,BU-A,M7,L8,Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,7.17
+252,AB263,BU-A,M7,L8,Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,6.03
+253,AB264,BU-A,M7,L8,Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB234,AB234,6.00
+256,AB267,BU-C,M7,L8,Executive,Accounts Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB237,AB966,5.40
+277,AB288,HO,M7,L8,Executive,Finance Executive,247,Finance & Accounts,Finance & Accounts,Finance & Accounts,Finance & Accounts,AB232,AB232,7.94
+311,AB322,BU-C,M7,L8,Executive,Site Lead-Administration & Security,291,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB295,AB966,7.40
+312,AB323,BU-B,M7,L8,Executive,Lead-Payroll & Benefits ,291,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB312,AB312,5.23
+321,AB332,BU-A,M7,L8,Officer ,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB300,AB300,4.60
+322,AB333,BU-A,M7,L8,Executive ,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB300,AB300,4.69
+323,AB334,BU-A,M7,L8,Executive ,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,5.76
+325,AB336,BU-C,M7,L8,Executive,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB298,AB992,3.16
+326,AB337,BU-B,M8,L8,Officer,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB312,AB312,5.42
+328,AB339,HO,M7,L8,Executive,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,3.10
+329,AB340,HO,M8,L8,Assistant Officer,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,2.15
+330,AB341,HO,M8,L8,Assistant Officer,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,3.00
+331,AB342,HO,M8,L8,Assistant Officer,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,2.50
+332,AB343,HO,M7,L8,Officer,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,5.20
+333,AB344,HO,M8,L8,Assistant Officer,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,2.16
+339,AB350,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB346,AB405,4.51
+366,AB377,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,6.68
+368,AB379,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,3.34
+369,AB380,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB354,AB354,6.02
+370,AB381,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB356,AB356,4.21
+380,AB391,HO,M7,L8,Executive,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB358,AB358,9.09
+382,AB393,HO,M7,L8,Executive,Piloting & Process Officer -R&D,208,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB408,AB408,4.35
+384,AB395,HO,M7,L8,Executive,Outsourcing Executive,211,Innovation & Technology,Process Engineering,Innovation & Technology,Innovation & Technology,AB622,AB019,5.42
+390,AB401,BU-B,M8,L8,Officer,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB312,AB312,4.31
+407,AB418,HO,M7,L8,Executive,Engineer- Process Engineering,247,Innovation & Technology,Process Engineering,Innovation & Technology,Process Engineering,AB403,AB403,3.80
+418,AB429,HO,M7,L8,Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB361,AB361,3.28
+423,AB434,BU-A,M7,L8,Officer ,IT Infrastructure Engineer,323,IT Services,IT Infrastructure,IT Services,IT Services,AB577,AB441,4.54
+439,AB450,HO,M7,L8,Executive,IT Commercial Executive,240,IT Services,IT Infrastructure,IT Services,IT Services,AB436,AB436,3.80
+451,AB462,BU-A,M7,L8,Executive,Sales Executive,240,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB461,AB480,9.63
+464,AB475,BU-B,M7,L8,Executive,Product Executive,240,Marketing & Product Management,Product Management,Marketing/ BD/ Product Management,Product Management,AB590,AB590,3.29
+478,AB489,BU-A,M7,L8,Executive,Customer Support Executive,252,Marketing & Product Management,Sales & Marketing,Marketing/ BD/ Product Management,Sales & Marketing,AB480,AB480,4.30
+496,AB507,BU-A,M7,L8,Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,5.94
+497,AB508,BU-A,M7,L8,Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,6.54
+498,AB509,BU-A,M7,L8,Executive,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,6.88
+499,AB510,BU-A,M7,L8,Executive ,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,5.46
+500,AB511,BU-A,M7,L8,Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB521,AB521,6.68
+501,AB512,BU-A,M7,L8,Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB521,AB521,6.30
+503,AB514,BU-A,M7,L8,Executive ,Technical Services Executive,247,Operational Excellence,Technical Services,Operational Excellence,Technical Services,AB497,AB497,5.46
+511,AB522,BU-A,M7,L8,SHE,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB498,AB498,4.10
+515,AB526,BU-C,M7,L8,Executive,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,7.26
+518,AB529,BU-C,M7,L8,Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,8.46
+519,AB530,BU-C,M7,L8,Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,3.72
+520,AB531,BU-C,M7,L8,Executive,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB534,AB534,7.56
+521,AB532,BU-C,M8,L8,Assistant Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,4.24
+522,AB533,BU-C,M8,L8,Officer,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB534,AB534,4.71
+524,AB535,BU-C,M8,L8,Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,3.02
+525,AB536,BU-C,M8,L8,Assistant Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,3.38
+526,AB537,BU-C,M8,L8,Assistant Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,4.02
+529,AB540,BU-C,M8,L8,Assistant Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,4.21
+530,AB541,BU-C,M7,L8,Executive,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB539,AB966,4.51
+531,AB542,BU-C,M8,L8,Officer,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB534,AB534,3.70
+533,AB544,BU-B,M7,L8,Executive,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB545,AB545,5.94
+535,AB546,BU-B,M7,L8,Executive,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB545,AB545,5.53
+536,AB547,BU-B,M8,L8,Officer,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB545,AB545,4.30
+538,AB549,BU-C,M7,L8,Executive,Shift Officer - Safety & Health ,160,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB548,AB991,4.00
+544,AB555,BU-B,M7,L8,Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,3.52
+546,AB557,BU-B,M8,L8,Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,5.18
+547,AB558,BU-B,M7,L8,Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Operational Excellence,Safety & Health,AB1209,AB1209,2.97
+548,AB559,BU-B,M8,L8,Officer,Shift Officer - Environment ,160,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,7.53
+549,AB560,BU-B,M7,L8,Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,3.28
+550,AB561,BU-B,M8,L8,OFFICER ,Shift Officer - Fire ,160,Operational Excellence,Fire,Operational Excellence,"Safety, Health, Environment",AB1209,AB1209,7.28
+551,AB562,BU-B,M7,L8,Executive,Executive- Environment,240,Operational Excellence,Environment,Operational Excellence,Environment,AB259,AB259,3.46
+578,AB589,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,6.85
+604,AB615,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB622,AB019,6.24
+605,AB616,BU-A,M7,L8,Officer ,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,6.08
+607,AB618,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.69
+608,AB619,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,5.88
+609,AB620,BU-A,M7,L8,Officer ,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.76
+610,AB621,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.78
+612,AB623,BU-A,M7,L8,Officer,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB622,AB019,5.47
+613,AB624,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.58
+614,AB625,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,3.57
+615,AB626,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.56
+616,AB627,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.26
+617,AB628,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.19
+618,AB629,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.18
+619,AB630,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB579,AB019,7.40
+620,AB631,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB579,AB019,5.71
+621,AB632,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.71
+622,AB633,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,3.80
+623,AB634,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,5.75
+624,AB635,BU-A,M7,L8,Officer,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB579,AB019,4.65
+625,AB636,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,5.13
+626,AB637,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB579,AB019,4.48
+627,AB638,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,5.38
+628,AB639,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,7.40
+629,AB640,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,7.27
+630,AB641,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,6.50
+631,AB642,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.11
+632,AB643,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,5.05
+633,AB644,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.34
+634,AB645,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB586,AB019,3.78
+635,AB646,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB586,AB019,6.26
+636,AB647,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,6.07
+637,AB648,BU-A,M7,L8,Officer ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.80
+638,AB649,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,3.24
+639,AB650,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,5.48
+640,AB651,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,3.56
+641,AB652,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,5.61
+642,AB653,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,4.09
+643,AB654,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,5.48
+644,AB655,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,6.44
+645,AB656,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,4.89
+646,AB657,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.33
+647,AB658,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.55
+648,AB659,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.33
+649,AB660,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,3.33
+650,AB661,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,2.92
+651,AB662,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.07
+653,AB664,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,6.70
+654,AB665,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB582,AB019,6.29
+655,AB666,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,4.01
+656,AB667,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,6.44
+657,AB668,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,6.87
+658,AB669,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,6.62
+659,AB670,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,5.49
+660,AB671,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,5.62
+661,AB672,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,6.28
+662,AB673,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,4.80
+663,AB674,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,6.00
+664,AB675,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.65
+665,AB676,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.59
+666,AB677,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,5.04
+667,AB678,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB582,AB019,5.34
+668,AB679,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.36
+669,AB680,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.63
+670,AB681,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.40
+671,AB682,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.60
+672,AB683,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,2.94
+673,AB684,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.55
+674,AB685,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,3.26
+675,AB686,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,4.08
+676,AB687,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.10
+677,AB688,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.83
+678,AB689,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.83
+679,AB690,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,3.97
+680,AB691,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,2.63
+681,AB692,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,3.51
+683,AB694,BU-A,M7,L8,Executive ,Panel Officer,211,Operations,Operations,Operations,Operations,AB622,AB019,5.01
+684,AB695,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.71
+685,AB696,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.67
+686,AB697,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,2.74
+687,AB698,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,5.03
+688,AB699,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB586,AB019,5.43
+689,AB700,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB867,AB020,5.72
+690,AB701,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,6.02
+693,AB704,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,4.44
+694,AB705,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.14
+695,AB706,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,5.51
+696,AB707,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.55
+697,AB708,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.06
+698,AB709,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,4.73
+699,AB710,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,3.19
+700,AB711,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,8.51
+701,AB712,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,8.10
+702,AB713,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,8.45
+703,AB714,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,9.05
+704,AB715,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB590,AB020,6.14
+705,AB716,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,6.22
+706,AB717,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,6.28
+707,AB718,BU-A,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB590,AB020,4.30
+708,AB719,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,4.99
+709,AB720,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,4.21
+710,AB721,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,5.52
+712,AB723,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB590,AB020,5.18
+713,AB724,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,4.36
+714,AB725,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,5.03
+715,AB726,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB590,AB020,5.09
+716,AB727,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,4.22
+718,AB729,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,5.76
+719,AB730,BU-A,M7,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,6.19
+720,AB731,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.20
+721,AB732,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.15
+722,AB733,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,5.41
+723,AB734,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,6.19
+724,AB735,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,5.47
+725,AB736,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,5.16
+726,AB737,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB590,AB020,4.85
+727,AB738,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,5.38
+729,AB740,BU-A,M7,L8,Executive ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB867,AB020,5.92
+730,AB741,BU-A,M7,L8,Executive ,Panel Officer,211,Operations,Operations,Operations,Operations,AB867,AB020,4.30
+731,AB742,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.38
+732,AB743,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,9.94
+733,AB744,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.81
+734,AB745,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.88
+735,AB746,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,5.68
+736,AB747,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.55
+737,AB748,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.42
+738,AB749,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.53
+740,AB751,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,6.15
+741,AB752,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.80
+742,AB753,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.16
+743,AB754,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.03
+744,AB755,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.77
+745,AB756,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.73
+746,AB757,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.74
+747,AB758,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.27
+748,AB759,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.26
+749,AB760,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.90
+750,AB761,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,7.16
+751,AB762,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,9.49
+753,AB764,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.22
+754,AB765,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.83
+755,AB766,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,5.56
+756,AB767,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.78
+757,AB768,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.78
+758,AB769,BU-A,M7,L8,Officer ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB021,5.92
+759,AB770,BU-A,M7,L8,Officer ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB021,AB021,5.94
+760,AB771,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.50
+761,AB772,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,5.39
+762,AB773,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,6.47
+763,AB774,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.69
+764,AB775,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.74
+765,AB776,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.22
+766,AB777,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,6.14
+767,AB778,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.36
+768,AB779,BU-A,M7,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.87
+769,AB780,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.02
+770,AB781,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.26
+771,AB782,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.7
+772,AB783,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.3
+773,AB784,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.3
+774,AB785,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.6
+775,AB786,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.8
+776,AB787,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.7
+777,AB788,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.4
+778,AB789,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.0
+779,AB790,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.7
+780,AB791,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.0
+781,AB792,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.7
+782,AB793,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.4
+783,AB794,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.1
+784,AB795,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.1
+785,AB796,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+786,AB797,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,6.4
+787,AB798,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,5.6
+788,AB799,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+789,AB800,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.5
+790,AB801,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.2
+791,AB802,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.2
+792,AB803,BU-A,M8,L8,Assistant Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.1
+793,AB804,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.9
+794,AB805,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.2
+795,AB806,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+796,AB807,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.3
+797,AB808,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.4
+798,AB809,BU-A,M7,L8,Officer ,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.8
+799,AB810,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.0
+800,AB811,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.6
+801,AB812,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+802,AB813,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.4
+803,AB814,BU-A,M7,L8,Officer ,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,5.6
+804,AB815,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,2.6
+805,AB816,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.3
+806,AB817,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,2.7
+807,AB818,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.8
+808,AB819,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.9
+809,AB820,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,2.9
+810,AB821,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.0
+811,AB822,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.0
+812,AB823,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.0
+813,AB824,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.0
+814,AB825,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB590,AB020,2.9
+815,AB826,BU-A,M7,L8,Executive ,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.0
+816,AB827,BU-A,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,2.3
+817,AB828,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,2.9
+818,AB829,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.3
+819,AB830,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+820,AB831,BU-A,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,5.0
+821,AB832,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,3.1
+822,AB833,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,3.3
+823,AB834,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,4.55
+824,AB835,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,3.8
+825,AB836,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.4
+826,AB837,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,2.7
+827,AB838,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,3.65
+828,AB839,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.5
+829,AB840,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.20
+830,AB841,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.0
+831,AB842,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.4
+832,AB843,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,4.2
+833,AB844,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.50
+834,AB845,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,3.1
+835,AB846,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.8
+836,AB847,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB021,AB021,3.3
+837,AB848,BU-A,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB602,AB020,5.5
+838,AB849,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB579,AB019,2.9
+839,AB850,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,4.4
+840,AB851,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.5
+842,AB853,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,3.30
+843,AB854,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,2.6
+844,AB855,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,3.30
+845,AB856,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,3.2
+847,AB858,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,2.6
+848,AB859,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.8
+849,AB860,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB582,AB019,4.00
+850,AB861,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,2.60
+851,AB862,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB586,AB019,2.6
+852,AB863,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.8
+853,AB864,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.9
+854,AB865,BU-A,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB602,AB020,4.8
+857,AB868,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.8
+858,AB869,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,4.0
+859,AB870,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.9
+860,AB871,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.0
+861,AB872,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.2
+862,AB873,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.3
+863,AB874,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.0
+864,AB875,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.0
+865,AB876,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.8
+866,AB877,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,3.0
+867,AB878,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,4.2
+868,AB879,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB602,AB020,4.3
+869,AB880,BU-A,M7,L8,Production,Field Officer,195,Operations,Operations,Operations,Operations,AB867,AB020,5.2
+870,AB881,BU-A,M7,L8,Production,Field Officer,195,Operations,Operations,Operations,Operations,AB622,AB019,2.9
+871,AB882,BU-A,M7,L8,Production,Field Officer,195,Operations,Operations,Operations,Operations,AB021,AB021,3.2
+879,AB890,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,6.8
+880,AB891,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,5.2
+882,AB893,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,5.2
+883,AB894,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,5.8
+888,AB899,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,3.6
+892,AB903,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.2
+893,AB904,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.0
+894,AB905,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.0
+895,AB906,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.8
+896,AB907,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.1
+897,AB908,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.8
+898,AB909,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.4
+899,AB910,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.2
+900,AB911,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.1
+901,AB912,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.7
+902,AB913,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,5.5
+903,AB914,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,4.6
+904,AB915,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.8
+906,AB917,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.0
+908,AB919,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB022,AB925,3.6
+909,AB920,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,3.6
+911,AB922,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB022,AB925,3.6
+912,AB923,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,3.4
+913,AB924,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.8
+915,AB926,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.7
+916,AB927,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.8
+917,AB928,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.8
+918,AB929,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB022,AB925,5.3
+919,AB930,BU-C,M7,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.6
+921,AB932,BU-B,M7,L8,Executive ,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,5.6
+923,AB934,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,5.6
+925,AB936,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,4.9
+926,AB937,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.62
+927,AB938,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,4.96
+928,AB939,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB023,AB966,9.72
+929,AB940,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.48
+930,AB941,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB023,AB966,5.29
+931,AB942,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,4.02
+932,AB943,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.83
+933,AB944,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,2.41
+934,AB945,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.51
+935,AB946,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,3.78
+936,AB947,BU-C,M8,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,4.08
+937,AB948,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,3.53
+938,AB949,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,4.76
+939,AB950,BU-C,M8,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,3.52
+941,AB952,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB025,AB925,4.46
+942,AB953,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,5.12
+943,AB954,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.56
+945,AB956,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB022,AB925,2.76
+946,AB957,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.70
+947,AB958,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,3.18
+948,AB959,BU-C,M8,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB025,AB925,4.32
+951,AB962,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,4.20
+952,AB963,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,3.00
+953,AB964,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,4.20
+956,AB967,BU-C,M8,L8,Assistant Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB025,AB925,3.47
+957,AB968,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,3.30
+958,AB969,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB023,AB966,4.00
+963,AB974,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,10.85
+965,AB976,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,5.15
+966,AB977,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,6.76
+968,AB979,BU-B,M8,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,4.34
+969,AB980,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,3.95
+970,AB981,BU-B,M8,L8,Officer,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,4.44
+971,AB982,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,5.86
+973,AB984,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,3.29
+974,AB985,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,2.60
+975,AB986,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,2.38
+976,AB987,BU-B,M7,L8,Executive,Panel Officer,211,Operations,Operations,Operations,Operations,AB983,AB983,5.75
+977,AB988,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,4.89
+978,AB989,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,4.83
+979,AB990,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB983,AB983,3.50
+994,AB1005,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.24
+995,AB1006,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.96
+996,AB1007,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.96
+997,AB1008,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.09
+998,AB1009,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.13
+999,AB1010,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.96
+"1,000",AB1011,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.01
+"1,001",AB1012,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.96
+"1,002",AB1013,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.91
+"1,003",AB1014,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.09
+"1,004",AB1015,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.96
+"1,005",AB1016,BU-C,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB994,AB992,4.23
+"1,006",AB1017,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,007",AB1018,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,008",AB1019,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,009",AB1020,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,010",AB1021,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,011",AB1022,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.41
+"1,012",AB1023,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,4.17
+"1,013",AB1024,BU-C,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.94
+"1,014",AB1025,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,3.17
+"1,015",AB1026,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB997,AB992,3.38
+"1,016",AB1027,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.40
+"1,017",AB1028,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB1002,AB992,2.4
+"1,018",AB1029,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB997,AB992,2.1
+"1,019",AB1030,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB998,AB992,2.1
+"1,020",AB1031,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB998,AB992,2.4
+"1,021",AB1032,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB998,AB992,2.1
+"1,022",AB1033,BU-C,M8,L8,Officer,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB1002,AB992,2.5
+"1,023",AB1034,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.4
+"1,024",AB1035,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.2
+"1,025",AB1036,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.2
+"1,026",AB1037,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.2
+"1,027",AB1038,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.2
+"1,028",AB1039,BU-C,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB994,AB992,2.2
+"1,055",AB1066,HO,M7,L8,Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Innovation & Technology,Research & Development,AB425,AB425,6.6
+"1,056",AB1067,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB012,AB012,7.7
+"1,058",AB1069,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB012,AB012,3.9
+"1,059",AB1070,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB012,AB012,2.7
+"1,060",AB1071,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB013,AB013,3.6
+"1,061",AB1072,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,7.4
+"1,062",AB1073,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB247,AB247,3.2
+"1,063",AB1074,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB017,AB017,4.0
+"1,064",AB1075,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,2.9
+"1,065",AB1076,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB017,AB017,2.9
+"1,066",AB1077,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB014,AB014,2.9
+"1,068",AB1079,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB015,AB015,3.8
+"1,069",AB1080,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB015,AB015,2.74
+"1,070",AB1081,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,2.74
+"1,071",AB1082,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,7.87
+"1,072",AB1083,BU-B,M7,L8,Executive,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,7.7
+"1,073",AB1084,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,8.01
+"1,074",AB1085,BU-B,M8,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB247,AB247,2.70
+"1,075",AB1086,BU-B,M8,L8,Officer,Field Officer,195,Operations,Operations,Operations,Operations,AB247,AB247,2.97
+"1,076",AB1087,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB247,AB247,2.95
+"1,077",AB1088,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,3.21
+"1,079",AB1090,BU-B,M7,L8,Executive,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB016,AB016,3.91
+"1,080",AB1091,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB016,AB016,3.86
+"1,081",AB1092,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB016,AB016,2.92
+"1,082",AB1093,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,2.92
+"1,083",AB1094,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB014,AB014,7.68
+"1,087",AB1098,BU-B,M7,L8,Executive ,Shift Incharge - Production,261,Operations,Operations,Operations,Operations,AB018,AB018,4.75
+"1,088",AB1099,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB018,AB018,4.04
+"1,089",AB1100,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB018,AB018,3.20
+"1,090",AB1101,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB018,AB018,2.74
+"1,091",AB1102,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB012,AB012,4.61
+"1,092",AB1103,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB013,AB013,2.75
+"1,093",AB1104,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB013,AB013,2.75
+"1,094",AB1105,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB015,AB015,2.75
+"1,095",AB1106,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB015,AB015,2.50
+"1,096",AB1107,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB012,AB012,2.75
+"1,097",AB1108,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB016,AB016,2.75
+"1,098",AB1109,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB015,AB015,2.75
+"1,101",AB1112,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB017,AB017,2.50
+"1,102",AB1113,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB012,AB012,2.50
+"1,103",AB1114,BU-B,M7,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB013,AB013,2.5
+"1,104",AB1115,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB012,AB012,2.50
+"1,105",AB1116,BU-B,M8,L8,Officer,Shift Officer Production,195,Operations,Production,Operations,Operations,AB018,AB018,2.50
+"1,106",AB1117,BU-B,M8,L8,Executive,Field Officer,195,Operations,Operations,Operations,Operations,AB018,AB018,3.00
+"1,122",AB1133,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,6.02
+"1,123",AB1134,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,5.60
+"1,125",AB1136,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,6.19
+"1,127",AB1138,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,4.01
+"1,128",AB1139,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,3.73
+"1,129",AB1140,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,4.3
+"1,130",AB1141,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,5.97
+"1,131",AB1142,BU-A,M7,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,10.09
+"1,132",AB1143,BU-A,M7,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,6.13
+"1,133",AB1144,BU-A,M7,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,7.39
+"1,134",AB1145,BU-A,M8,L8,Assistant Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,6.79
+"1,135",AB1146,BU-A,M8,L8,Assistant Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,5.31
+"1,136",AB1147,BU-A,M7,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,4.58
+"1,137",AB1148,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,3.34
+"1,138",AB1149,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,3.3
+"1,139",AB1150,BU-A,M7,L8,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,7.2
+"1,140",AB1151,BU-A,M7,L8,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,5.8
+"1,141",AB1152,BU-A,M7,L8,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1123,AB1123,6.1
+"1,142",AB1153,BU-A,M7,L8,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,6.3
+"1,143",AB1154,BU-A,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,2.9
+"1,144",AB1155,BU-A,M8,L8,Assistant Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1124,AB1124,3.9
+"1,146",AB1157,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,7.8
+"1,147",AB1158,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,5.8
+"1,150",AB1161,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,6.21
+"1,154",AB1165,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,4.97
+"1,155",AB1166,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,5.71
+"1,156",AB1167,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,5.35
+"1,160",AB1171,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,5.33
+"1,161",AB1172,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1168,AB966,4.80
+"1,167",AB1178,BU-B,M8,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,3.88
+"1,169",AB1180,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,5.64
+"1,170",AB1181,BU-B,M8,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1174,AB1174,4.14
+"1,175",AB1186,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,4.30
+"1,176",AB1187,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,4.51
+"1,177",AB1188,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,5.33
+"1,178",AB1189,BU-C,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,4.96
+"1,179",AB1190,BU-C,M8,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,2.96
+"1,180",AB1191,BU-C,M8,L8,Officer,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1182,AB992,2.40
+"1,190",AB1201,BU-B,M7,L8,Executive ,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,2.70
+"1,191",AB1202,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,3.29
+"1,192",AB1203,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,5
+"1,193",AB1204,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,4
+"1,194",AB1205,BU-B,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Control,AB1192,AB1192,4
+"1,195",AB1206,HO,M7,L8,Executive,Shift Officer - QA/QC ,211,QA/QC,QA/QC,QA/QC,Quality Assurance/ Quality Control,AB566,AB566,11
+"1,211",AB1222,BU-A,M7,L8,Executive ,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,8
+"1,212",AB1223,BU-A,M7,L8,Officer,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,6
+"1,213",AB1224,BU-A,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,7
+"1,214",AB1225,BU-A,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,3
+"1,215",AB1226,BU-A,M7,L8,Executive ,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,5.08
+"1,216",AB1227,BU-A,M7,L8,Executive ,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,4.24
+"1,217",AB1228,BU-A,M7,L8,Officer,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1214,AB1214,3.2
+"1,218",AB1229,BU-A,M8,L8,Assistant Officer,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,6.9
+"1,219",AB1230,BU-A,M7,L8,Officer,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,6.4
+"1,220",AB1231,BU-A,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,5.2
+"1,221",AB1232,BU-A,M7,L8,Executive ,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,6.0
+"1,222",AB1233,BU-A,M7,L8,Officer,Procurement Executive - BU-A,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1239,AB1239,5.6
+"1,223",AB1234,BU-A,M8,L8,Assistant Officer,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1211,AB1211,3.5
+"1,226",AB1237,BU-A,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,3.7
+"1,227",AB1238,BU-A,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,5.5
+"1,229",AB1240,BU-A,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1214,AB1214,5.5
+"1,230",AB1241,BU-A,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1211,AB1211,7.1
+"1,232",AB1243,BU-C,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1247,AB966,12.1
+"1,233",AB1244,BU-C,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1247,AB966,7.6
+"1,237",AB1248,BU-C,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1247,AB966,8.6
+"1,238",AB1249,BU-C,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1247,AB966,7.2
+"1,239",AB1250,BU-C,M7,L8,Executive,Procurement Executive - BU-C,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1247,AB966,6.7
+"1,242",AB1253,BU-B,M7,L8,Executive,Procurement Executive - BU-B,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB975,AB1259,5.6
+"1,247",AB1258,BU-C,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1254,AB992,3.8
+"1,251",AB1262,BU-B,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Commercial,AB1259,AB1259,11.9
+"1,252",AB1263,BU-B,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1259,AB1259,10.35
+"1,253",AB1264,BU-B,M7,L8,Executive,Stores Executive ,228,Supply Chain Management,Stores,Supply Chain Management,Stores,AB1259,AB1259,8.4
+"1,254",AB1265,BU-B,M7,L8,Executive-Purchase,Procurement Executive - BU-B,240,Supply Chain Management,Materials/ Strategic Sourcing,Supply Chain Management,Materials,AB1259,AB1259,5.6
+"1,260",AB1271,HO,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1277,AB1277,4.5
+"1,269",AB1280,HO,M7,L8,Executive,Documentation Executive,235,Supply Chain Management,Documentation,Supply Chain Management,Commercial,AB1277,AB1277,6.8
+"1,273",AB1284,HO,M7,L8,Executive,Environment Chemist,240,Innovation & Technology,Research & Development,Technology,Research & Development,AB411,AB411,4.7
+"1,274",AB1285,HO,M7,L8,Executive,Synthesis Researcher- R&D,245,Innovation & Technology,Research & Development,Technology,Research & Development,AB353,AB353,4.6
+"1,276",AB1287,HO,M7,L8,Executive,Environment Chemist,240,Innovation & Technology,Research & Development,Technology,Research & Development,AB411,AB411,3.3
+"1,282",AB1293,BU-C,M7,L8,Executive,Logistics Executive,240,Supply Chain Management,Logistics,Supply Chain Management,Commercial,AB1247,AB1247,3.7
+"1,284",AB1295,HO,M7,L8,Executive,Process Excellence- Executive,240,Operational Excellence,Sustainability & Excellence,Operational Excellence,Operational Excellence,AB572,AB572,3.3
+"1,293",AB1304,BU-C,M8,L8,Officer,Shift Officer Engineering,195,Engineering,Civil Engineering,Engineering,Engineering,AB138,AB138,5.5
+"1,295",AB1306,HO,M7,L8,Executive,Analytical Chemist,245,Innovation & Technology,Research & Development,Technology,Research & Development,AB360,AB360,3.0
+"1,296",AB1307,HO,M7,L8,Executive,Piloting & Process Engineer -R&D,275,Innovation & Technology,Research & Development,Technology,Research & Development,AB357,AB357,3.3
+"1,297",AB1308,HO,M7,L8,Executive,Project Coordinator- R&D,215,Innovation & Technology,Research & Development,Technology,Research & Development,AB338,AB338,4.5
+"1,301",AB1312,BU-A,M7,L8,Executive,Mechanical Engineer,228,Engineering,Mechanical Engineering,Engineering,Engineering,AB046,AB046,6.0
+"1,302",AB1313,BU-A,M7,L8,Executive,Shift Officer - Environment ,160,Operational Excellence,Environment,Environment ,Environment ,AB498,AB498,5.3
+"1,303",AB1314,HO,M7,L8,Assistant Manager,Human Resource Executive,240,HR & Admin.,HR Operations & IR,HR & Admin.,HR & Admin.,AB409,AB409,13.8
+"1,304",AB1315,BU-A,M7,L8,Executive,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,4.1
+"1,305",AB1316,BU-A,M7,L8,Executive,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,4.0
+"1,306",AB1317,BU-A,M7,L8,Executive,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,4.5
+"1,307",AB1318,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB622,AB622,4.5
+"1,308",AB1319,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB586,AB586,3.3
+"1,309",AB1320,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB586,AB586,5
+"1,310",AB1321,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB586,AB586,3
+"1,311",AB1322,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB582,AB582,3
+"1,312",AB1323,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB582,AB582,4
+"1,313",AB1324,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB582,AB582,4
+"1,314",AB1325,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB020,AB020,4
+"1,315",AB1326,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB020,AB020,4
+"1,316",AB1327,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB020,AB020,3
+"1,317",AB1328,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB021,AB021,4
+"1,318",AB1329,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB021,AB021,4
+"1,319",AB1330,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB021,AB021,4
+"1,320",AB1331,BU-A,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB021,AB021,3
+"1,321",AB1332,BU-A,M7,L8,Executive,Executive- Safety & Health,240,Operational Excellence,Safety & Health,Safety and Health,Safety and Health,AB521,AB521,8
+"1,323",AB1334,BU-A,M7,L8,Executive,Security Officer ,194,HR & Admin.,Security & Administration,HR & Admin.,HR & Admin.,AB324,AB324,4
+"1,324",AB1335,BU-B,M7,L8,Executive,Field Officer,195,Operations,Operations,Production,Production,AB013,AB013,5

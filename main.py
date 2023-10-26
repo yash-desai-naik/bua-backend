@@ -1,17 +1,24 @@
-import json
+from fastapi import FastAPI, UploadFile, Query
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
+
 import pandas as pd
+import json
 
-# Load the Excel file into pandas dataframes
-employee_mapping = pd.read_excel('Emp data.xlsx', sheet_name='Employee Mapping')
-job_evaluation_data = pd.read_excel('Emp data.xlsx', sheet_name='Job Evaluation Data')
-band_range = pd.read_excel('Emp data.xlsx', sheet_name='Band Range')
+app = FastAPI()
 
-# Filter rows where the 'BU' column matches a specific value (e.g., 'YourSpecificBUValue')
-specific_value = 'BU-A'
-employee_mapping = employee_mapping[employee_mapping['BU'] == specific_value]
+# Define the list of allowed origins (replace with your actual frontend URL)
+origins = [
+    "http://localhost:5173",
+]
 
-# Create a mapping of "Unique Job" to "Proposed band" from 'Job Evaluation Data'
-job_mapping = dict(zip(job_evaluation_data['Unique Job'], job_evaluation_data['Proposed band']))
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Define a function to convert band strings to numeric values
 def convert_band_to_numeric(band_string):
@@ -19,59 +26,80 @@ def convert_band_to_numeric(band_string):
         numeric_part = ''.join(filter(str.isdigit, band_string))
         if numeric_part:
             return int(numeric_part)
-    return 0  # Return 0 if the input is None or if no numeric part is found
+    return 0
 
 # Define a function to calculate outliers
-def calculate_outlier(row):
+def calculate_outlier(row, job_mapping):
     current_band = convert_band_to_numeric(row['Current Band Equivalence'])
     proposed_band = convert_band_to_numeric(job_mapping.get(row['Unique Job'], None))
     if current_band is not None and proposed_band is not None:
-        if current_band > proposed_band:
-            return -1 # negative outlier
-        elif current_band < proposed_band:
-            return 1 # positive outlie
-    return 0 # no outlier
+        if current_band < proposed_band:
+            return -1  # negative outlier
+        elif current_band > proposed_band:
+            return 1  # positive outlier
+    return 0
 
-# Apply the function to each row in the 'Employee Mapping' dataframe
-employee_mapping['Outlier'] = employee_mapping.apply(calculate_outlier, axis=1)
+@app.post("/process-excel/")
+async def process_excel_file(excel_file: UploadFile, specific_value: str = Query(...)):
+    # Read the Excel file from the multipart form
+    content = await excel_file.read()
+    with open("temp_excel.xlsx", "wb") as temp_file:
+        temp_file.write(content)
 
-# Create a dictionary to store the results in the desired JSON format
-results = []
+    # Load the Excel file into pandas dataframes
+    employee_mapping = pd.read_excel('temp_excel.xlsx', sheet_name='Employee Mapping')
+    job_evaluation_data = pd.read_excel('temp_excel.xlsx', sheet_name='Job Evaluation Data')
+    band_range = pd.read_excel('temp_excel.xlsx', sheet_name='Band Range')
 
-# Merge 'Band Range' data with 'employee_mapping' to get 'hayScoreRange'
-employee_mapping = employee_mapping.merge(band_range[['Band', 'Min', 'Max']], left_on='Current Band Equivalence', right_on='Band', how='left')
+    print(specific_value)
 
-# Group the data by 'band' and 'hayScoreRange'
-grouped = employee_mapping.groupby(['Current Band Equivalence', 'Min', 'Max'])
+    # Filter rows where the 'BU' column matches the specific value
+    employee_mapping = employee_mapping[employee_mapping['BU'] == specific_value]
 
+    # Create a mapping of "Unique Job" to "Proposed band" from 'Job Evaluation Data'
+    job_mapping = dict(zip(job_evaluation_data['Unique Job'], job_evaluation_data['Proposed band']))
 
-for (band, min_range, max_range), group in grouped:
-    unique_jobs = []
-    for index, row in group.iterrows():
-        title = row['Unique Job']
-        outlier_icon = row['Outlier']
-        hay_score = row['Hay Score']
-        
-        unique_job_data = {
-            "title": title,
-            "outlierIcon": outlier_icon,
-            "hayScore": hay_score
+    # Apply the function to each row in the 'Employee Mapping' dataframe
+    employee_mapping['Outlier'] = employee_mapping.apply(lambda row: calculate_outlier(row, job_mapping), axis=1)
+
+    # Create a dictionary to store the results in the desired JSON format
+    results = []
+
+    # Merge 'Band Range' data with 'employee_mapping' to get 'hayScoreRange'
+    employee_mapping = employee_mapping.merge(band_range[['Band', 'Min', 'Max']], left_on='Current Band Equivalence', right_on='Band', how='inner')
+
+    # Group the data by 'band' and 'hayScoreRange'
+    grouped = employee_mapping.groupby(['Current Band Equivalence', 'Min', 'Max'])
+
+    for (band, min_range, max_range), group in grouped:
+        unique_jobs = []
+        for _, row in group.iterrows():
+            title = row['Unique Job']
+            outlier_icon = row['Outlier']
+            hay_score = row['Hay Score']
+
+            unique_job_data = {
+                "title": title,
+                "outlierIcon": outlier_icon,
+                "hayScore": hay_score
+            }
+
+            unique_jobs.append(unique_job_data)
+
+        # Calculate the percentage based on the range's "Min" and "Max" values
+        percentage = 15  # dummy
+
+        result_dict = {
+            "band": band,
+            "hayScoreRange": f"{min_range}-{max_range}",
+            "percentage": percentage,  # dummy
+            "uniqueJobs": unique_jobs
         }
-        
-        unique_jobs.append(unique_job_data)
-    
-    # Calculate the percentage based on the range's "Min" and "Max" values
-    percentage = 15 #dummy
 
-    result_dict = {
-        "band": band,
-        "hayScoreRange": f"{min_range}-{max_range}",
-        "percentage": percentage, #dummy
-        "uniqueJobs": unique_jobs
-    }
+        results.append(result_dict)
 
-    results.append(result_dict)
+    # Remove the temporary Excel file
+    import os
+    os.remove('temp_excel.xlsx')
 
-# Save the results to a JSON file
-with open('output_data.json', 'w') as json_file:
-    json.dump(results, json_file, indent=4)
+    return JSONResponse(content=results)

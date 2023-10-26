@@ -1,2 +1,5 @@
 openpyxl
 pandas
+fastapi
+uvicorn
+python-multipart 
