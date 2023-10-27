@@ -1,9 +1,25 @@
 from fastapi import FastAPI, UploadFile, File
+from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import tempfile
 import math
 
+
 app = FastAPI()
+
+# cors
+origins = [
+    "http://localhost:5173",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 def calculate_outlier_icon(current_band_equivalence, band, hay_score):
     if current_band_equivalence < band:
@@ -24,8 +40,22 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
         df_band_range = pd.read_excel(temp_file.name, sheet_name="Band Range")
         df_employee_mapping = pd.read_excel(temp_file.name, sheet_name="Employee Mapping")
 
-    # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
-    filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
+    # # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
+    # filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
+
+    print(f'specific_value: {specific_value}')
+    if specific_value == "null" or specific_value=="":
+        specific_value = None  # Convert "null" to None
+
+    # Check if specific_value is provided for filtering
+    if specific_value is not None:
+        print('ing')
+        # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
+        filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
+    else:
+        # If specific_value is not provided, use the entire Employee Mapping data
+        filtered_employee_mapping = df_employee_mapping
+
 
     # Create an empty list to store the JSON response
     json_response = []
