@@ -1,105 +1,79 @@
-from fastapi import FastAPI, UploadFile, Query
-from fastapi.responses import JSONResponse
-from fastapi.middleware.cors import CORSMiddleware
-
+from fastapi import FastAPI, UploadFile, File
 import pandas as pd
-import json
+import tempfile
+import math
 
 app = FastAPI()
 
-# Define the list of allowed origins (replace with your actual frontend URL)
-origins = [
-    "http://localhost:5173",
-]
+def calculate_outlier_icon(current_band_equivalence, band, hay_score):
+    if current_band_equivalence < band:
+        return -1  # Negative outlier
+    elif current_band_equivalence > band:
+        return 1  # Positive outlier
+    else:
+        return 0  # No outlier
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+@app.post("/api/process_excel")
+async def process_excel_file(specific_value: str, excel_file: UploadFile = File(...)):
+    # Create a temporary file to store the uploaded Excel file
+    with tempfile.NamedTemporaryFile(delete=False) as temp_file:
+        temp_file.write(await excel_file.read())
+        temp_file.close()
 
-# Define a function to convert band strings to numeric values
-def convert_band_to_numeric(band_string):
-    if band_string is not None:
-        numeric_part = ''.join(filter(str.isdigit, band_string))
-        if numeric_part:
-            return int(numeric_part)
-    return 0
+        # Read the Excel file into separate dataframes
+        df_band_range = pd.read_excel(temp_file.name, sheet_name="Band Range")
+        df_employee_mapping = pd.read_excel(temp_file.name, sheet_name="Employee Mapping")
 
-# Define a function to calculate outliers
-def calculate_outlier(row, job_mapping):
-    current_band = convert_band_to_numeric(row['Current Band Equivalence'])
-    proposed_band = convert_band_to_numeric(job_mapping.get(row['Unique Job'], None))
-    if current_band is not None and proposed_band is not None:
-        if current_band < proposed_band:
-            return -1  # negative outlier
-        elif current_band > proposed_band:
-            return 1  # positive outlier
-    return 0
+    # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
+    filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
 
-@app.post("/process-excel/")
-async def process_excel_file(excel_file: UploadFile, specific_value: str = Query(...)):
-    # Read the Excel file from the multipart form
-    content = await excel_file.read()
-    with open("temp_excel.xlsx", "wb") as temp_file:
-        temp_file.write(content)
+    # Create an empty list to store the JSON response
+    json_response = []
 
-    # Load the Excel file into pandas dataframes
-    employee_mapping = pd.read_excel('temp_excel.xlsx', sheet_name='Employee Mapping')
-    job_evaluation_data = pd.read_excel('temp_excel.xlsx', sheet_name='Job Evaluation Data')
-    band_range = pd.read_excel('temp_excel.xlsx', sheet_name='Band Range')
+    # Iterate over each band in the "Band Range" sheet
+    for index, row in df_band_range.iterrows():
+        band = row["Band"]
+        min_range = row["Min"]
+        max_range = row["Max"]
 
-    print(specific_value)
+        # Handle infinity values in the "Max" column
+        if max_range == "-":
+            max_range = math.inf
+        else:
+            max_range = float(max_range)
 
-    # Filter rows where the 'BU' column matches the specific value
-    employee_mapping = employee_mapping[employee_mapping['BU'] == specific_value]
+        # Handle negative infinity values in the "Min" column
+        if min_range == "-":
+            min_range = -math.inf
+        else:
+            min_range = float(min_range)
 
-    # Create a mapping of "Unique Job" to "Proposed band" from 'Job Evaluation Data'
-    job_mapping = dict(zip(job_evaluation_data['Unique Job'], job_evaluation_data['Proposed band']))
+        # Filter the unique jobs in the filtered employee mapping based on the Hay Score range
+        unique_jobs = filtered_employee_mapping[
+            (filtered_employee_mapping["Hay Score"] >= min_range) &
+            (filtered_employee_mapping["Hay Score"] <= max_range)
+        ]
 
-    # Apply the function to each row in the 'Employee Mapping' dataframe
-    employee_mapping['Outlier'] = employee_mapping.apply(lambda row: calculate_outlier(row, job_mapping), axis=1)
+        # Create a dictionary for the band and unique jobs
+        band_dict = {"band": band, 
+                     "range":f'{row["Min"]}-{row["Max"]}',
+                     "uniqueJobs": []
+                     }
 
-    # Create a dictionary to store the results in the desired JSON format
-    results = []
+        # Check if there are any unique jobs in the band's range
+        if not unique_jobs.empty:
+            # Iterate over each unique job and add it to the band's unique jobs list
+            for _, job_row in unique_jobs.iterrows():
+                unique_job = {
+                    "title": job_row["Unique Job"],
+                    "current_band": job_row["Current Band Equivalence"],
+                    "hayScore": job_row["Hay Score"],
+                    "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"])
+                }
 
-    # Merge 'Band Range' data with 'employee_mapping' to get 'hayScoreRange'
-    employee_mapping = employee_mapping.merge(band_range[['Band', 'Min', 'Max']], left_on='Current Band Equivalence', right_on='Band', how='inner')
+                band_dict["uniqueJobs"].append(unique_job)
 
-    # Group the data by 'band' and 'hayScoreRange'
-    grouped = employee_mapping.groupby(['Current Band Equivalence', 'Min', 'Max'])
+        # Add the band dictionary to the JSON response
+        json_response.append(band_dict)
 
-    for (band, min_range, max_range), group in grouped:
-        unique_jobs = []
-        for _, row in group.iterrows():
-            title = row['Unique Job']
-            outlier_icon = row['Outlier']
-            hay_score = row['Hay Score']
-
-            unique_job_data = {
-                "title": title,
-                "outlierIcon": outlier_icon,
-                "hayScore": hay_score
-            }
-
-            unique_jobs.append(unique_job_data)
-
-        # Calculate the percentage based on the range's "Min" and "Max" values
-        percentage = 15  # dummy
-
-        result_dict = {
-            "band": band,
-            "hayScoreRange": f"{min_range}-{max_range}",
-            "percentage": percentage,  # dummy
-            "uniqueJobs": unique_jobs
-        }
-
-        results.append(result_dict)
-
-    # Remove the temporary Excel file
-    import os
-    os.remove('temp_excel.xlsx')
-
-    return JSONResponse(content=results)
+    return json_response
