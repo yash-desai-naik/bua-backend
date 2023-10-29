@@ -97,9 +97,12 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
                 unique_job = {
                     "title": job_row["Unique Job"],
                     "current_band": job_row["Current Band Equivalence"],
+                    "current_grade": job_row["Current Grade"],
                     "hayScore": job_row["Hay Score"],
-                    "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"])
-                }
+                    "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),
+                    "id": job_row["Emp ID"],            # Include "Emp ID" as id
+                    "parentId": job_row["AA Emp. Code"]  # Include "AA Emp. Code" as parentId
+               }
 
                 band_dict["uniqueJobs"].append(unique_job)
 
