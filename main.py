@@ -10,6 +10,7 @@ app = FastAPI()
 # cors
 origins = [
     "http://localhost:5173",
+    "https://bua-nu.vercel.app"
 ]
 
 app.add_middleware(
