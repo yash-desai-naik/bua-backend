@@ -50,14 +50,26 @@ def calculate_step_gap_icon(manager_id, reportee_parent_id, employee_mapping_df,
     return "Other Step Gap"
 
 def checkParentId(parentId, unique_jobs):
-    print(unique_jobs)
 
     check = False
     ids = unique_jobs["Emp ID"].tolist()
-    print(f' ids: {ids}')
     if parentId in ids:
         check = True
     return parentId if check else None
+
+
+
+
+
+def extract_numbers(range_str):
+    if range_str.startswith('--'):
+        return f"{range_str[2:]} and below"
+    elif range_str.endswith('--'):
+        return f"{range_str[:-2]} and above"
+    else:
+        min_val, max_val = range_str.split('-')
+        return f"{min_val}-{max_val}"
+
 
 
 @app.post("/api/process_excel")
@@ -75,13 +87,11 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
     # # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
     # filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
 
-    print(f'specific_value: {specific_value}')
     if specific_value == "null" or specific_value=="":
         specific_value = None  # Convert "null" to None
 
     # Check if specific_value is provided for filtering
     if specific_value is not None:
-        print('ing')
         # Filter the "BU" column of the "Employee Mapping" sheet based on the specific value
         filtered_employee_mapping = df_employee_mapping[df_employee_mapping["BU"] == specific_value]
     else:
@@ -94,7 +104,6 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
 
     # Define the dynamic band range based on your data
     dynamic_band_range = df_band_range["Band"].unique().tolist()
-    print(f" dynamic_band_range: {dynamic_band_range}")
 
 
     # Iterate over each band in the "Band Range" sheet
@@ -121,9 +130,16 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
             (filtered_employee_mapping["Hay Score"] <= max_range)
         ]
 
+        range = f'{row["Min"]}-{row["Max"]}'
+        formatted_range = extract_numbers(range)
+
+        print(f'range: {range}')
+        print(f'formatted_range: {formatted_range}')
+        
+
         # Create a dictionary for the band and unique jobs
         band_dict = {"band": band, 
-                     "range":f'{row["Min"]}-{row["Max"]}',
+                     "range": formatted_range,
                      "uniqueJobs": []
                      }
         
