@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import tempfile
 import math
+import random
+import colorsys
 
 
 app = FastAPI()
@@ -70,7 +72,22 @@ def extract_numbers(range_str):
         min_val, max_val = range_str.split('-')
         return f"{min_val}-{max_val}"
 
+ # Dictionary to store generated colors for each unique current_grade
+current_grade_colors = {}
 
+def get_or_generate_color(current_grade):
+    """Get the color for a given current_grade or generate a new one."""
+    if current_grade not in current_grade_colors:
+        # Generate a random color for the current_grade
+        hue = random.random()
+        rgb = colorsys.hsv_to_rgb(hue, 0.8, 0.8)
+        current_grade_colors[current_grade] = tuple(int(val * 255) for val in rgb)
+    color_list =  current_grade_colors[current_grade]
+
+    # return as rgb string
+    return f"rgb({color_list[0]}, {color_list[1]}, {color_list[2]})"
+
+# ...
 
 @app.post("/api/process_excel")
 async def process_excel_file(specific_value: str, excel_file: UploadFile = File(...)):
@@ -104,6 +121,10 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
 
     # Define the dynamic band range based on your data
     dynamic_band_range = df_band_range["Band"].unique().tolist()
+
+
+
+   
 
 
     # Iterate over each band in the "Band Range" sheet
@@ -150,10 +171,16 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
             for _, job_row in unique_jobs.iterrows():
                 id = job_row["Emp ID"]
                 parentId = job_row["AA Emp. Code"]
+
+                 # Get or generate a color for the current_grade
+                current_grade_color = get_or_generate_color(job_row["Current Grade"])
+
                 unique_job = {
                     "title": job_row["Unique Job"],
                     "current_band": job_row["Current Band Equivalence"],
                     "current_grade": job_row["Current Grade"],
+                    "current_grade_color": current_grade_color,
+
                     "hayScore": job_row["Hay Score"],
                     "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),                    
                     "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping,dynamic_band_range),
