@@ -85,6 +85,7 @@ def get_or_generate_color(current_grade):
     color_list =  current_grade_colors[current_grade]
 
     # return as rgb string
+
     return f"rgb({color_list[0]}, {color_list[1]}, {color_list[2]})"
 
 # ...
@@ -173,7 +174,7 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
                 parentId = job_row["AA Emp. Code"]
 
                  # Get or generate a color for the current_grade
-                current_grade_color = get_or_generate_color(job_row["Current Grade"])
+                current_grade_color = get_or_generate_color(job_row["Current Band Equivalence"])
 
                 unique_job = {
                     "title": job_row["Unique Job"],
@@ -194,6 +195,7 @@ async def process_excel_file(specific_value: str, excel_file: UploadFile = File(
         # final_response["unique_bu_list"] = unique_bu_list
         # final_response["data"] = json_response
 
+    current_grade_color = {}
     return json_response
 
 
