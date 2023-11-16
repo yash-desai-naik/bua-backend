@@ -1,4 +1,6 @@
 from fastapi import FastAPI, UploadFile, File, Query
+from typing import Optional
+
 from fastapi.middleware.cors import CORSMiddleware
 import pandas as pd
 import tempfile
@@ -79,6 +81,7 @@ def extract_numbers(range_str):
         min_val, max_val = range_str.split('-')
         return f"{min_val}-{max_val}"
 
+
  # Dictionary to store generated colors for each unique current_grade
 current_grade_colors = {}
 
@@ -100,8 +103,9 @@ def get_or_generate_color(current_grade):
 
 @app.post("/api/process_excel")
 async def process_excel_file(
-    bu_filter: (str | None) = Query(None, alias="bu_filter"),
-    job_family_mapping: (str | None) = Query(None, alias="job_family_mapping"),
+    bu_filter: Optional[str] = Query(None, alias="bu_filter"),
+    job_family_mapping: Optional[str] = Query(
+        None, alias="job_family_mapping"),
     excel_file: UploadFile = File(...),
 ):
     # Create a temporary file to store the uploaded Excel file
