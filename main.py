@@ -100,8 +100,8 @@ def get_or_generate_color(current_grade):
 
 @app.post("/api/process_excel")
 async def process_excel_file(
-    bu_filter: str | None = Query(None, alias="bu_filter", ),
-    job_family_mapping: str | None = Query(None, alias="job_family_mapping"),
+    bu_filter: (str | None) = Query(None, alias="bu_filter"),
+    job_family_mapping: (str | None) = Query(None, alias="job_family_mapping"),
     excel_file: UploadFile = File(...),
 ):
     # Create a temporary file to store the uploaded Excel file
