@@ -215,7 +215,7 @@ async def process_excel_file(
                     "current_band": job_row["Current Band Equivalence"],
                     "current_grade": job_row["Current Grade"],
                     "current_grade_color": current_grade_color,
-
+                    "sub_job_family": job_row["Sub Job Family"],
                     "hayScore": job_row["Hay Score"],
                     "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),
                     "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping, dynamic_band_range),
