@@ -106,6 +106,7 @@ async def process_excel_file(
     bu_filter: Optional[str] = Query(None, alias="bu_filter"),
     job_family_mapping: Optional[str] = Query(
         None, alias="job_family_mapping"),
+    level: Optional[str] = Query(None, alias="level"),
     excel_file: UploadFile = File(...),
 ):
     # Create a temporary file to store the uploaded Excel file
@@ -120,6 +121,7 @@ async def process_excel_file(
 
     print(f"bu_filter: {bu_filter}")
     print(f"job_family_mapping: {job_family_mapping}")
+    print(f"level: {level}")
 
     print(bu_filter is not None or job_family_mapping is not None)
     print(bu_filter is not None or job_family_mapping is not None)
@@ -140,6 +142,15 @@ async def process_excel_file(
                 filtered_employee_mapping[
                     "Job Family/ Function mapping (as per finalised list)"] == job_family_mapping
             ]
+
+        if level is not None:
+            level_range = list(range(1, int(level) + 1))
+            filtered_employee_mapping = filtered_employee_mapping[
+                (filtered_employee_mapping["Level"] == "n") | (filtered_employee_mapping["Level"].isin(level_range))
+            ]
+
+
+
 
     print(filtered_employee_mapping)
 
@@ -193,8 +204,8 @@ async def process_excel_file(
             (filtered_employee_mapping["Hay Score"] <= max_range)
         ]
 
-        range = f'{row["Min"]}-{row["Max"]}'
-        formatted_range = extract_numbers(range)
+        range__ = f'{row["Min"]}-{row["Max"]}'
+        formatted_range = extract_numbers(range__)
 
         # Create a dictionary for the band and unique jobs
         band_dict = {"band": band,
