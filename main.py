@@ -145,9 +145,15 @@ async def process_excel_file(
 
         # Apply additional filter based on "Job Family/ Function mapping" if provided
         if job_family_mapping is not None:
+            job_family_mapping_list = job_family_mapping.split(',')
+            # filtered_employee_mapping = filtered_employee_mapping[
+            #     filtered_employee_mapping[
+            #         "Job Family/ Function mapping (as per finalised list)"] == job_family_mapping
+            # ]
+
             filtered_employee_mapping = filtered_employee_mapping[
                 filtered_employee_mapping[
-                    "Job Family/ Function mapping (as per finalised list)"] == job_family_mapping
+                    "Job Family/ Function mapping (as per finalised list)"].isin(job_family_mapping_list)
             ]
 
         if level is not None:
