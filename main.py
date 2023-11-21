@@ -132,9 +132,16 @@ async def process_excel_file(
 
         # Apply filter based on bu_filter if provided
         if bu_filter is not None:
+            bu_filter_list = bu_filter.split(',')
+            # filtered_employee_mapping = filtered_employee_mapping[
+            #     filtered_employee_mapping["BU"] == bu_filter
+            # ]
+
             filtered_employee_mapping = filtered_employee_mapping[
-                filtered_employee_mapping["BU"] == bu_filter
+                filtered_employee_mapping["BU"].isin(bu_filter_list)
+
             ]
+
 
         # Apply additional filter based on "Job Family/ Function mapping" if provided
         if job_family_mapping is not None:
