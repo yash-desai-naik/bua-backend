@@ -229,6 +229,8 @@ async def process_excel_file(
 
         # Check if there are any unique jobs in the band's range
         if not unique_jobs.empty:
+            unique_titles = {}
+
             # Iterate over each unique job and add it to the band's unique jobs list
             for _, job_row in unique_jobs.iterrows():
                 id = job_row["Emp ID"]
@@ -237,21 +239,34 @@ async def process_excel_file(
                 # Get or generate a color for the current_grade
                 current_grade_color = get_or_generate_color(
                     job_row["Current Band Equivalence"])
+                
+                title = job_row["Unique Job"]
 
-                unique_job = {
-                    "title": job_row["Unique Job"],
-                    "current_band": job_row["Current Band Equivalence"],
-                    "current_grade": job_row["Current Grade"],
-                    "current_grade_color": current_grade_color,
-                    "sub_job_family": job_row["Sub Job Family"],
-                    "hayScore": job_row["Hay Score"],
-                    "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),
-                    "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping, dynamic_band_range),
-                    "id": id,            # Include "Emp ID" as id
-                    "parentId": checkParentId(parentId, filtered_employee_mapping)
-                }
+                 # If the title is already in the dictionary, increment the count
+                if title in unique_titles:
+                    unique_titles[title]["title_count"] += 1
+                else:
+                    # Otherwise, add the title to the dictionary with count 1
+                    unique_titles[title] = {
+                        "title": title,
+                        "title_count": 1,
+                        "current_band": job_row["Current Band Equivalence"],
+                        "current_grade": job_row["Current Grade"],
+                        "current_grade_color": current_grade_color,
+                        "sub_job_family": job_row["Sub Job Family"],
+                        "hayScore": job_row["Hay Score"],
+                        "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),
+                        "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping, dynamic_band_range),
+                        "id": id,            # Include "Emp ID" as id
+                        "parentId": checkParentId(parentId, filtered_employee_mapping)
+                    }
 
-                band_dict["uniqueJobs"].append(unique_job)
+            # Convert the dictionary values to a list
+            unique_jobs_list = list(unique_titles.values())
+
+            # Add the unique jobs list to the band dictionary
+            band_dict["uniqueJobs"] = unique_jobs_list
+
         # Add the band dictionary to the JSON response
         json_response.append(band_dict)
         # final_response["unique_bu_list"] = unique_bu_list
