@@ -1,3 +1,4 @@
+import json
 from fastapi import FastAPI, UploadFile, File, Query
 from typing import Optional
 
@@ -197,7 +198,12 @@ async def process_excel_file(
         min_range = row["Min"]
         max_range = row["Max"]
 
-        percentage = f'{math.ceil((row["Percentage"]*100))}%' if row["Percentage"] != "-" else None
+        # trim % from the  end
+        print(row["Percentage"])
+        row["Percentage"] = float(row["Percentage"].rstrip("%")) if row["Percentage"] != "-" else row["Percentage"]
+        print(row["Percentage"])
+
+        percentage = f'{math.ceil((row["Percentage"]))}%' if row["Percentage"] != "-" else None
 
         # Handle infinity values in the "Max" column
         if max_range == "-":
@@ -257,8 +263,8 @@ async def process_excel_file(
                         "hayScore": job_row["Hay Score"],
                         "outlierIcon": calculate_outlier_icon(job_row["Current Band Equivalence"], band, job_row["Hay Score"]),
                         "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping, dynamic_band_range),
-                        "id": id,            # Include "Emp ID" as id
-                        "parentId": checkParentId(parentId, filtered_employee_mapping)
+                        "id": str(id) if id else None,            # Include "Emp ID" as id
+                        "parentId": str(checkParentId(parentId, filtered_employee_mapping)) if checkParentId(parentId, filtered_employee_mapping) else None
                     }
 
             # Convert the dictionary values to a list
@@ -273,4 +279,5 @@ async def process_excel_file(
         # final_response["data"] = json_response
 
     current_grade_color = {}
+    print(json.dumps(json_response, indent = 1))
     return json_response
