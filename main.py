@@ -116,26 +116,31 @@ async def upload_excel_file(excel_file: UploadFile = File(...)):
 
         # Read the Excel file into DataFrames
         in_memory_dataframe = pd.read_excel(temp_file.name).fillna("unknown")
-        df_band_range = pd.read_excel(temp_file.name, sheet_name="Band Range").fillna("unknown")
+        df_band_range = pd.read_excel(
+            temp_file.name, sheet_name="Band Range").fillna("unknown")
 
-    job_family_list = in_memory_dataframe["Job Family/ Function mapping (as per finalised list)"].unique()
+    job_family_list = in_memory_dataframe["Job Family/ Function mapping (as per finalised list)"].unique(
+    )
     bu_list = in_memory_dataframe["BU"].unique()
     print(job_family_list)
     print(bu_list)
 
    # Convert unique values to the desired format
     bu_option_list = [{"value": bu, "label": bu} for bu in bu_list]
-    job_family_option_list = [{"value": job_family, "label": job_family} for job_family in job_family_list]
+    job_family_option_list = [
+        {"value": job_family, "label": job_family} for job_family in job_family_list]
 
     return {
         "bu_option_list": bu_option_list,
         "job_family_option_list": job_family_option_list
     }
 
+
 @app.post("/api/process_data")
 async def process_data(
     bu_filter: Optional[str] = Query(None, alias="bu_filter"),
-    job_family_mapping: Optional[str] = Query(None, alias="job_family_mapping"),
+    job_family_mapping: Optional[str] = Query(
+        None, alias="job_family_mapping"),
     level: Optional[str] = Query(None, alias="level"),
 ):
     global in_memory_dataframe
@@ -163,7 +168,8 @@ async def process_data(
         if level is not None:
             level_range = list(range(1, int(level) + 1))
             filtered_employee_mapping = filtered_employee_mapping[
-                (filtered_employee_mapping["Level"] == "n") | (filtered_employee_mapping["Level"].isin(level_range))
+                (filtered_employee_mapping["Level"] == "n") | (
+                    filtered_employee_mapping["Level"].isin(level_range))
             ]
 
     filtered_employee_mapping['Current Grade'].fillna('Unknown', inplace=True)
@@ -179,10 +185,9 @@ async def process_data(
         max_range = row["Max"]
 
         # print(f'per: {row["Percentage"]}')
-        if row["Percentage"] and isinstance(row["Percentage"], str) and  '%' in row["Percentage"]:
-            row["Percentage"] = float(row["Percentage"].rstrip("%")) if row["Percentage"] != "-" else row["Percentage"]
-        
-            
+        if row["Percentage"] and isinstance(row["Percentage"], str) and '%' in row["Percentage"]:
+            row["Percentage"] = float(row["Percentage"].rstrip(
+                "%")) if row["Percentage"] != "-" else row["Percentage"]
 
         percentage = f'{math.ceil((row["Percentage"]))}%' if row["Percentage"] != "-" else None
 
@@ -196,7 +201,8 @@ async def process_data(
         else:
             min_range = float(min_range)
 
-        print(f'filtered_employee_mapping["Hay Score"]: {filtered_employee_mapping["Hay Score"]}')
+        print(
+            f'filtered_employee_mapping["Hay Score"]: {filtered_employee_mapping["Hay Score"]}')
 
         unique_jobs = filtered_employee_mapping[
             (filtered_employee_mapping["Hay Score"] >= min_range) &
@@ -239,7 +245,7 @@ async def process_data(
                         "stepGapIcon": calculate_step_gap_icon(id, parentId, df_employee_mapping, dynamic_band_range),
                         "id": str(id) if id else None,
                         "parentId": str(checkParentId(parentId, filtered_employee_mapping)) if checkParentId(parentId, filtered_employee_mapping) else None,
-                        "level":job_row["Level"]
+                        "level": job_row["Level"]
 
                     }
 
@@ -311,8 +317,6 @@ async def process_data(
 #             filtered_employee_mapping = filtered_employee_mapping[
 #                 (filtered_employee_mapping["Level"] == "n") | (filtered_employee_mapping["Level"].isin(level_range))
 #             ]
-
-
 
 
 #     print(filtered_employee_mapping)
@@ -394,7 +398,7 @@ async def process_data(
 #                 # Get or generate a color for the current_grade
 #                 current_grade_color = get_or_generate_color(
 #                     job_row["Current Band Equivalence"])
-                
+
 #                 title = job_row["Unique Job"]
 
 #                  # If the title is already in the dictionary, increment the count
