@@ -251,7 +251,6 @@ async def process_data(
     current_grade_color = {}
     return json_response
 
-
 # @app.post("/api/process_excel")
 # async def process_excel_file(
 #     bu_filter: Optional[str] = Query(None, alias="bu_filter"),
